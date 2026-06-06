@@ -7,6 +7,10 @@ on:
 permissions:
   contents: write
 
+# 🚀 THIS LINE BANS THE WARNING AND FORCES NODE.JS 24 DEFAULT
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
