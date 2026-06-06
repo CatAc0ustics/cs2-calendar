@@ -1,13 +1,12 @@
 name: Update CS2 Calendar
 on:
   schedule:
-    - cron: '0 */12 * * *' # Runs automatically every 12 hours
-  workflow_dispatch: # Gives you a manual "Run Now" button
-
+    - cron: '0 */12 * * *' 
+  workflow_dispatch: 
+  
 permissions:
   contents: write
 
-# 🚀 THIS LINE BANS THE WARNING AND FORCES NODE.JS 24 DEFAULT
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
