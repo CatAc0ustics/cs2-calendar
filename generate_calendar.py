@@ -3,7 +3,6 @@ import requests
 from datetime import datetime, timedelta
 from icalendar import Calendar, Event
 
-# Automatically grabs the hidden token from GitHub's settings
 TOKEN = os.environ.get("PANDASCORE_TOKEN")
 URL = "https://api.pandascore.co/csgo/matches/upcoming"
 ALLOWED_ORGANIZERS = ['esl', 'blast', 'pgl', 'starladder', 'iem', 'intel extreme masters', 'dreamhack', 'major']
@@ -19,8 +18,12 @@ if response.status_code != 200:
 
 all_matches = response.json()
 cal = Calendar()
-cal.add('prodid', '-//CS2 Tier 1 Calendar//EN')
+cal.add('prodid', '-//CS2 Match Schedule//EN')
 cal.add('version', '2.0')
+
+cal.add('x-wr-calname', 'CS2 Match Schedule')
+cal.add('name', 'CS2 Match Schedule')
+cal.add('title', 'CS2 Match Schedule')
 
 for match in all_matches:
     if not match.get('begin_at'):
