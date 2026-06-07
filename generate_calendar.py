@@ -12,11 +12,26 @@ headers = {
     "Accept": "application/json"
 }
 
-response = requests.get(URL, headers=headers, params={"per_page": 100, "sort": "begin_at"})
-if response.status_code != 200:
+all_matches = []
+
+for page in range(1, 4):
+    params = {
+        "per_page": 100, 
+        "page": page,
+        "sort": "begin_at"
+    }
+    response = requests.get(URL, headers=headers, params=params)
+    if response.status_code == 200:
+        page_data = response.json()
+        if not page_data: 
+            break
+        all_matches.extend(page_data)
+    else:
+        break
+
+if not all_matches:
     exit()
 
-all_matches = response.json()
 cal = Calendar()
 cal.add('prodid', '-//CS2 Match Schedule//EN')
 cal.add('version', '2.0')
