@@ -46,6 +46,14 @@ for match in all_matches:
     tournament_name = match.get('league', {}).get('name', '')
     match_name = match.get('name', '')
     
+    opponents = match.get('opponents', [])
+    for opp in opponents:
+        opp_info = opp.get('opponent', {})
+        acronym = opp_info.get('acronym')
+        full_name = opp_info.get('name')
+        if acronym and full_name:
+            match_name = match_name.replace(acronym, full_name)
+            
     if not any(keyword in f"{tournament_name} {match_name}".lower() for keyword in ALLOWED_ORGANIZERS):
         continue
         
