@@ -3,9 +3,9 @@
 An automated Python script that fetches upcoming Tier-1 CS2 matches from the PandaScore API and generates a live, updating `.ics` calendar subscription feed.
 
 ## Features
-* **Automated Sync:** Runs twice a day (12 AM/PM UTC) via GitHub Actions.
-* **Tier-1 Filter:** Automatically strips out lower-tier tournaments.
-* **Live Feed:** Fully compatible with any calendar supporting '.ics' import.
+* Runs twice a day (12 AM/PM UTC) via GitHub Actions.
+* Automatically strips out lower-tier tournaments.
+* Fully compatible with any calendar supporting `.ics` import.
 
 ## Setup Instructions
 
@@ -18,4 +18,4 @@ If you want to fork this repository and host your own live calendar:
 
 ## How to add to Calendar
 
-Copy the **Raw** link of the generated `cs2_upcoming_matches.ics` file and paste it into your calendar application's "Subscribe from URL" setting.
+Copy the **Raw** link of the generated `cs2_upcoming_matches.ics` file and paste it into your calendar application's "Subscribe from URL".
