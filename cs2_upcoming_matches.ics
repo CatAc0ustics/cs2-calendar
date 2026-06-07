@@ -5,60 +5,52 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Round 3: AST vs TYLOO
-DTSTART:20260607T123000Z
-DTEND:20260607T150000Z
-UID:pandascore-1508682@cs2
-DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 3: MNTE vs LGC
-DTSTART:20260607T123000Z
-DTEND:20260607T150000Z
-UID:pandascore-1508681@cs2
-DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Round 3: MIBR vs BIG
 DTSTART:20260607T133000Z
 DTEND:20260607T160000Z
 UID:pandascore-1508684@cs2
-DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/peace
+ makerl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: BB vs M80
+SUMMARY:Round 3: BetBoom Team vs M80
 DTSTART:20260607T133000Z
 DTEND:20260607T160000Z
 UID:pandascore-1508683@cs2
-DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/dachc
+ s
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: FLY vs paiN
+SUMMARY:Round 3: FlyQuest vs paiN
 DTSTART:20260607T143000Z
 DTEND:20260607T170000Z
 UID:pandascore-1508686@cs2
-DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/dach_
+ cs2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: B8 vs GL
+SUMMARY:Round 3: B8 vs GamerLegion
 DTSTART:20260607T143000Z
 DTEND:20260607T170000Z
 UID:pandascore-1508685@cs2
-DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.youtube.com/wat
+ ch?v=4ULmCpdeGPU
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TS vs 9z
+SUMMARY:Round 3: Spirit vs 9z
 DTSTART:20260607T170000Z
 DTEND:20260607T193000Z
 UID:pandascore-1508688@cs2
-DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/crois
+ santstrike2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: G2 vs FUT
+SUMMARY:Round 3: G2 vs FUT Esports
 DTSTART:20260607T170000Z
 DTEND:20260607T193000Z
 UID:pandascore-1508687@cs2
-DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://kick.com/rootthegam
+ er
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 4: TBD vs TBD
@@ -131,21 +123,21 @@ UID:pandascore-1513127@cs2
 DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 1: MGLZ vs TBD
+SUMMARY:Round 1: TheMongolz vs TBD
 DTSTART:20260611T090000Z
 DTEND:20260611T113000Z
 UID:pandascore-1513126@cs2
 DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 1: PRV vs TBD
+SUMMARY:Round 1: PARIVISION vs TBD
 DTSTART:20260611T090000Z
 DTEND:20260611T113000Z
 UID:pandascore-1513125@cs2
 DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 1: AUR vs TBD
+SUMMARY:Round 1: Aurora Gaming vs TBD
 DTSTART:20260611T090000Z
 DTEND:20260611T113000Z
 UID:pandascore-1513124@cs2
@@ -159,21 +151,21 @@ UID:pandascore-1513123@cs2
 DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 1: NAVI vs TBD
+SUMMARY:Round 1: Natus Vincere vs TBD
 DTSTART:20260611T090000Z
 DTEND:20260611T113000Z
 UID:pandascore-1513122@cs2
 DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 1: FAL vs TBD
+SUMMARY:Round 1: Team Falcons vs TBD
 DTSTART:20260611T090000Z
 DTEND:20260611T113000Z
 UID:pandascore-1513121@cs2
 DESCRIPTION:🏆 Tournament: IEM\n📺 Stream: https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 1: VIT vs TBD
+SUMMARY:Round 1: Vitality vs TBD
 DTSTART:20260611T090000Z
 DTEND:20260611T113000Z
 UID:pandascore-1513120@cs2
