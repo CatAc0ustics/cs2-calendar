@@ -5,44 +5,12 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Round 4: MIBR vs B8
-DTSTART:20260608T120000Z
-DTEND:20260608T143000Z
-UID:pandascore-1508708@cs2
-DESCRIPTION:Tournament: IEM\nStage: Stage 2\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 4: Astralis vs paiN
-DTSTART:20260608T120000Z
-DTEND:20260608T143000Z
-UID:pandascore-1508707@cs2
-DESCRIPTION:Tournament: IEM\nStage: Stage 2\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 4: TYLOO vs 9z
-DTSTART:20260608T143000Z
-DTEND:20260608T170000Z
-UID:pandascore-1508710@cs2
-DESCRIPTION:Tournament: IEM\nStage: Stage 2\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 4: Monte vs BetBoom Team
-DTSTART:20260608T143000Z
-DTEND:20260608T170000Z
-UID:pandascore-1508709@cs2
-DESCRIPTION:Tournament: IEM\nStage: Stage 2\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Round 4: M80 vs Legacy
 DTSTART:20260608T170000Z
 DTEND:20260608T193000Z
 UID:pandascore-1508712@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 2\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ www.twitch.tv/CS2_maincast2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 4: G2 vs BIG
@@ -50,7 +18,7 @@ DTSTART:20260608T170000Z
 DTEND:20260608T193000Z
 UID:pandascore-1508711@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 2\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ www.twitch.tv/rtparenacs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 5: TBD vs TBD
