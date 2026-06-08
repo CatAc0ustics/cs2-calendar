@@ -57,6 +57,10 @@ for match in all_matches:
     if not any(keyword in f"{tournament_name} {match_name}".lower() for keyword in ALLOWED_ORGANIZERS):
         continue
         
+    stage_name = match.get('tournament', {}).get('name', 'Unknown Stage')
+    num_games = match.get('number_of_games')
+    match_format = f"BO{num_games}" if num_games else "Unknown Format"
+        
     event = Event()
     event.add('summary', match_name)
     event.add('dtstart', datetime.fromisoformat(match['begin_at'].replace('Z', '+00:00')))
@@ -65,7 +69,7 @@ for match in all_matches:
     stream_list = match.get('streams_list', [])
     stream_url = stream_list[0].get('raw_url') if stream_list else "No stream available"
     
-    event.add('description', f"🏆 Tournament: {tournament_name}\n📺 Stream: {stream_url}")
+    event.add('description', f"Tournament: {tournament_name}\nStage: {stage_name}\nFormat: {match_format}\nStream: {stream_url}")
     event.add('uid', f"pandascore-{match.get('id')}@cs2")
     cal.add_component(event)
 
