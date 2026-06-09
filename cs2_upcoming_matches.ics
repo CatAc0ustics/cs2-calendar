@@ -5,28 +5,12 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Round 5: Monte vs paiN
-DTSTART:20260609T120000Z
-DTEND:20260609T143000Z
-UID:pandascore-1508713@cs2
-DESCRIPTION:Tournament: IEM\nStage: Stage 2\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 5: TYLOO vs Legacy
-DTSTART:20260609T143000Z
-DTEND:20260609T170000Z
-UID:pandascore-1508714@cs2
-DESCRIPTION:Tournament: IEM\nStage: Stage 2\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Round 5: BIG vs B8
 DTSTART:20260609T170000Z
 DTEND:20260609T193000Z
 UID:pandascore-1508715@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 2\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ www.twitch.tv/izakooo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 1: MOUZ vs TBD
