@@ -29,16 +29,19 @@ for page in range(1, 4):
     else:
         break
 
-if not all_matches:
-    exit()
+existing_events = {}
+ics_filename = "cs2_upcoming_matches.ics"
 
-cal = Calendar()
-cal.add('prodid', '-//CS2 Match Schedule//EN')
-cal.add('version', '2.0')
-
-cal.add('x-wr-calname', 'CS2 Match Schedule')
-cal.add('name', 'CS2 Match Schedule')
-cal.add('title', 'CS2 Match Schedule')
+if os.path.exists(ics_filename):
+    try:
+        with open(ics_filename, "rb") as f:
+            old_cal = Calendar.from_ical(f.read())
+            for component in old_cal.walk('vevent'):
+                uid = str(component.get('uid'))
+                if uid:
+                    existing_events[uid] = component
+    except Exception:
+        pass
 
 for match in all_matches:
     if not match.get('begin_at'):
@@ -70,8 +73,21 @@ for match in all_matches:
     stream_url = stream_list[0].get('raw_url') if stream_list else "No stream available"
     
     event.add('description', f"Tournament: {tournament_name}\nStage: {stage_name}\nFormat: {match_format}\nStream: {stream_url}")
-    event.add('uid', f"pandascore-{match.get('id')}@cs2")
+    uid = f"pandascore-{match.get('id')}@cs2"
+    event.add('uid', uid)
+    
+    existing_events[uid] = event
+
+cal = Calendar()
+cal.add('prodid', '-//CS2 Match Schedule//EN')
+cal.add('version', '2.0')
+
+cal.add('x-wr-calname', 'CS2 Match Schedule')
+cal.add('name', 'CS2 Match Schedule')
+cal.add('title', 'CS2 Match Schedule')
+
+for event in existing_events.values():
     cal.add_component(event)
 
-with open("cs2_upcoming_matches.ics", "wb") as f:
+with open(ics_filename, "wb") as f:
     f.write(cal.to_ical())
