@@ -58,15 +58,15 @@ DTSTART:20260611T163000Z
 DTEND:20260611T190000Z
 UID:pandascore-1513124@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ www.twitch.tv/watchfulTVb
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 1: Natus Vincere vs Spirit
-DTSTART:20260611T163000Z
-DTEND:20260611T190000Z
+DTSTART:20260611T173000Z
+DTEND:20260611T200000Z
 UID:pandascore-1513122@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ kick.com/gaules
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 2: TBD vs TBD
