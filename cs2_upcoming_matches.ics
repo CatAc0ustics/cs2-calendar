@@ -126,11 +126,11 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 2: Aurora Gaming vs Spirit
-DTSTART:20260612T163000Z
-DTEND:20260612T190000Z
+DTSTART:20260612T173000Z
+DTEND:20260612T200000Z
 UID:pandascore-1513134@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ www.twitch.tv/zonixxcs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 3: TBD vs TBD
