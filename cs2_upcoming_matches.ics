@@ -133,7 +133,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/zonixxcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: B8 vs FUT Esports
 DTSTART:20260613T090000Z
 DTEND:20260613T113000Z
 UID:pandascore-1513137@cs2
@@ -141,7 +141,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Natus Vincere vs TheMongolz
 DTSTART:20260613T090000Z
 DTEND:20260613T113000Z
 UID:pandascore-1513136@cs2
@@ -149,7 +149,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Team Falcons vs Monte
 DTSTART:20260613T113000Z
 DTEND:20260613T140000Z
 UID:pandascore-1513139@cs2
@@ -157,7 +157,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Aurora Gaming vs G2
 DTSTART:20260613T113000Z
 DTEND:20260613T140000Z
 UID:pandascore-1513138@cs2
@@ -165,7 +165,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: PARIVISION vs Legacy
 DTSTART:20260613T140000Z
 DTEND:20260613T163000Z
 UID:pandascore-1513141@cs2
@@ -173,7 +173,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Vitality vs MOUZ
 DTSTART:20260613T140000Z
 DTEND:20260613T163000Z
 UID:pandascore-1513140@cs2
@@ -181,7 +181,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Spirit vs 9z
 DTSTART:20260613T163000Z
 DTEND:20260613T190000Z
 UID:pandascore-1513143@cs2
@@ -189,7 +189,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: BetBoom Team vs FURIA
 DTSTART:20260613T163000Z
 DTEND:20260613T190000Z
 UID:pandascore-1513142@cs2
