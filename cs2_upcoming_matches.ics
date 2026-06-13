@@ -146,7 +146,7 @@ DTSTART:20260613T090000Z
 DTEND:20260613T113000Z
 UID:pandascore-1513136@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ www.twitch.tv/zonixxcs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 3: Team Falcons vs Monte
@@ -162,7 +162,7 @@ DTSTART:20260613T113000Z
 DTEND:20260613T140000Z
 UID:pandascore-1513138@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ www.twitch.tv/x9nium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 3: PARIVISION vs Legacy
@@ -178,7 +178,7 @@ DTSTART:20260613T140000Z
 DTEND:20260613T163000Z
 UID:pandascore-1513140@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ www.twitch.tv/izakooo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 3: Spirit vs 9z
@@ -194,7 +194,7 @@ DTSTART:20260613T163000Z
 DTEND:20260613T190000Z
 UID:pandascore-1513142@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ www.twitch.tv/madhousetv_
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 4: TBD vs TBD
