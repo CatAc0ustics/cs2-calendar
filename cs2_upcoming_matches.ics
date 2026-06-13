@@ -154,7 +154,7 @@ DTSTART:20260613T113000Z
 DTEND:20260613T140000Z
 UID:pandascore-1513139@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ www.twitch.tv/officialhyper
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 3: Aurora Gaming vs G2
@@ -170,7 +170,7 @@ DTSTART:20260613T140000Z
 DTEND:20260613T163000Z
 UID:pandascore-1513141@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ www.twitch.tv/officialhyper
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 3: Vitality vs MOUZ
@@ -186,7 +186,7 @@ DTSTART:20260613T163000Z
 DTEND:20260613T190000Z
 UID:pandascore-1513143@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ kick.com/bladeito
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 3: BetBoom Team vs FURIA
