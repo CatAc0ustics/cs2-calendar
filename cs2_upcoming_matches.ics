@@ -245,7 +245,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/bysl4m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: 9z vs TheMongolz
 DTSTART:20260615T120000Z
 DTEND:20260615T143000Z
 UID:pandascore-1513150@cs2
@@ -253,7 +253,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: BetBoom Team vs FUT Esports
 DTSTART:20260615T143000Z
 DTEND:20260615T170000Z
 UID:pandascore-1513151@cs2
@@ -261,7 +261,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: Natus Vincere vs G2
 DTSTART:20260615T170000Z
 DTEND:20260615T193000Z
 UID:pandascore-1513152@cs2
