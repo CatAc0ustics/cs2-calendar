@@ -197,7 +197,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/madhousetv_
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: TheMongolz vs Monte
 DTSTART:20260614T120000Z
 DTEND:20260614T143000Z
 UID:pandascore-1513145@cs2
@@ -205,7 +205,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: MOUZ vs FUT Esports
 DTSTART:20260614T120000Z
 DTEND:20260614T143000Z
 UID:pandascore-1513144@cs2
@@ -213,7 +213,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: Aurora Gaming vs 9z
 DTSTART:20260614T143000Z
 DTEND:20260614T170000Z
 UID:pandascore-1513147@cs2
@@ -221,7 +221,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: BetBoom Team vs Vitality
 DTSTART:20260614T143000Z
 DTEND:20260614T170000Z
 UID:pandascore-1513146@cs2
@@ -229,7 +229,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: G2 vs Legacy
 DTSTART:20260614T170000Z
 DTEND:20260614T193000Z
 UID:pandascore-1513149@cs2
@@ -237,7 +237,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: Natus Vincere vs Team Falcons
 DTSTART:20260614T170000Z
 DTEND:20260614T193000Z
 UID:pandascore-1513148@cs2
