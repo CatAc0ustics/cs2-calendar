@@ -214,8 +214,8 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 4: Aurora Gaming vs 9z
-DTSTART:20260614T143000Z
-DTEND:20260614T170000Z
+DTSTART:20260614T150000Z
+DTEND:20260614T173000Z
 UID:pandascore-1513147@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/CS2_maincast2
