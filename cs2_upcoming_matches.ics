@@ -238,8 +238,8 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 4: Natus Vincere vs Team Falcons
-DTSTART:20260614T170000Z
-DTEND:20260614T193000Z
+DTSTART:20260614T180000Z
+DTEND:20260614T203000Z
 UID:pandascore-1513148@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  www.twitch.tv/bysl4m
