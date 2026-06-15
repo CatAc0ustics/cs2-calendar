@@ -269,7 +269,7 @@ DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
  kick.com/gaules
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 4: Aurora Gaming vs BetBoom Team
 DTSTART:20260618T134500Z
 DTEND:20260618T161500Z
 UID:pandascore-1513153@cs2
@@ -277,7 +277,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 3: FURIA vs 9z
 DTSTART:20260618T170000Z
 DTEND:20260618T193000Z
 UID:pandascore-1513154@cs2
@@ -285,7 +285,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 1: Spirit vs G2
 DTSTART:20260619T134500Z
 DTEND:20260619T161500Z
 UID:pandascore-1513155@cs2
@@ -293,7 +293,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 2: Vitality vs Team Falcons
 DTSTART:20260619T170000Z
 DTEND:20260619T193000Z
 UID:pandascore-1513156@cs2
@@ -302,16 +302,16 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Semifinal 1: TBD vs TBD
-DTSTART:20260620T134500Z
-DTEND:20260620T161500Z
+DTSTART:20260620T170000Z
+DTEND:20260620T193000Z
 UID:pandascore-1513160@cs2
 DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Semifinal 2: TBD vs TBD
-DTSTART:20260620T170000Z
-DTEND:20260620T193000Z
+DTSTART:20260620T134500Z
+DTEND:20260620T161500Z
 UID:pandascore-1513161@cs2
 DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /www.twitch.tv/ESLCS
