@@ -258,7 +258,7 @@ DTSTART:20260615T143000Z
 DTEND:20260615T170000Z
 UID:pandascore-1513151@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ kick.com/lorranbs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 5: Natus Vincere vs G2
@@ -266,7 +266,7 @@ DTSTART:20260615T170000Z
 DTEND:20260615T193000Z
 UID:pandascore-1513152@cs2
 DESCRIPTION:Tournament: IEM\nStage: Stage 3\nFormat: BO3\nStream: https://
- www.twitch.tv/ESLCS
+ kick.com/gaules
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 1: TBD vs TBD
