@@ -282,7 +282,7 @@ DTSTART:20260618T170000Z
 DTEND:20260618T193000Z
 UID:pandascore-1513154@cs2
 DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
- /www.twitch.tv/ESLCS
+ /www.twitch.tv/zonixxcs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 1: Spirit vs G2
