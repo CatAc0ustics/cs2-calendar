@@ -309,7 +309,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 2: Aurora Gaming vs TBD
+SUMMARY:Semifinal 2: Aurora Gaming vs FURIA
 DTSTART:20260620T134500Z
 DTEND:20260620T161500Z
 UID:pandascore-1513161@cs2
