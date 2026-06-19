@@ -294,8 +294,8 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 2: Vitality vs Team Falcons
-DTSTART:20260619T170000Z
-DTEND:20260619T193000Z
+DTSTART:20260619T184000Z
+DTEND:20260619T211000Z
 UID:pandascore-1513156@cs2
 DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /kick.com/esportsbg
