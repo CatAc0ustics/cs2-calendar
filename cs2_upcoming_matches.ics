@@ -290,7 +290,7 @@ DTSTART:20260619T134500Z
 DTEND:20260619T161500Z
 UID:pandascore-1513155@cs2
 DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
- /www.twitch.tv/ESLCS
+ /www.twitch.tv/bysl4m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 2: Vitality vs Team Falcons
@@ -298,7 +298,7 @@ DTSTART:20260619T170000Z
 DTEND:20260619T193000Z
 UID:pandascore-1513156@cs2
 DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
- /www.twitch.tv/ESLCS
+ /kick.com/esportsbg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Semifinal 1: TBD vs TBD
