@@ -301,7 +301,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /kick.com/esportsbg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: Spirit vs TBD
 DTSTART:20260620T170000Z
 DTEND:20260620T193000Z
 UID:pandascore-1513160@cs2
