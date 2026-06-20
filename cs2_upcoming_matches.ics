@@ -317,7 +317,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand final: FURIA vs TBD
+SUMMARY:Grand final: FURIA vs Team Falcons
 DTSTART:20260621T150000Z
 DTEND:20260621T173000Z
 UID:pandascore-1513171@cs2
