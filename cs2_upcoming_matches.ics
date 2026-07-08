@@ -324,4 +324,60 @@ UID:pandascore-1513171@cs2
 DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO5\nStream: https:/
  /www.twitch.tv/ESLCS
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 1: TBD vs TBD
+DTSTART:20260709T163000Z
+DTEND:20260709T190000Z
+UID:pandascore-1577277@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 2: TBD vs TBD
+DTSTART:20260709T193000Z
+DTEND:20260709T220000Z
+UID:pandascore-1577278@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 3: TBD vs TBD
+DTSTART:20260709T223000Z
+DTEND:20260710T010000Z
+UID:pandascore-1577279@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 4: TBD vs TBD
+DTSTART:20260710T013000Z
+DTEND:20260710T040000Z
+UID:pandascore-1577280@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 1: TBD vs TBD
+DTSTART:20260710T223000Z
+DTEND:20260711T010000Z
+UID:pandascore-1577281@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 2: TBD vs TBD
+DTSTART:20260711T013000Z
+DTEND:20260711T040000Z
+UID:pandascore-1577282@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand final: TBD vs TBD
+DTSTART:20260711T233000Z
+DTEND:20260712T020000Z
+UID:pandascore-1577283@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://kick.com/circuitx
+END:VEVENT
 END:VCALENDAR
