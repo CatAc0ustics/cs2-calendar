@@ -330,7 +330,7 @@ DTSTART:20260709T163000Z
 DTEND:20260709T190000Z
 UID:pandascore-1577277@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
- https://kick.com/circuitx
+ https://www.twitch.tv/circuitxofficial
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 2: TBD vs TBD
@@ -338,7 +338,7 @@ DTSTART:20260709T193000Z
 DTEND:20260709T220000Z
 UID:pandascore-1577278@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
- https://kick.com/circuitx
+ https://www.twitch.tv/circuitxofficial
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 3: TBD vs TBD
@@ -346,7 +346,7 @@ DTSTART:20260709T223000Z
 DTEND:20260710T010000Z
 UID:pandascore-1577279@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
- https://kick.com/circuitx
+ https://www.twitch.tv/circuitxofficial
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 4: TBD vs TBD
