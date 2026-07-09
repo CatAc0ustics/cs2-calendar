@@ -346,7 +346,7 @@ DTSTART:20260709T223000Z
 DTEND:20260710T010000Z
 UID:pandascore-1577279@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
- https://www.twitch.tv/circuitxofficial
+ https://www.twitch.tv/Trottah
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 4: Marsborne vs regain
@@ -354,7 +354,7 @@ DTSTART:20260709T193000Z
 DTEND:20260709T220000Z
 UID:pandascore-1577280@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
- https://www.twitch.tv/circuitxofficial
+ https://kick.com/circuitx
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Semifinal 1: TBD vs TBD
