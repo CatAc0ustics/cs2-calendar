@@ -362,7 +362,7 @@ DTSTART:20260710T223000Z
 DTEND:20260711T010000Z
 UID:pandascore-1577281@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
- https://kick.com/circuitx
+ https://www.twitch.tv/circuitxofficial
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Semifinal 2: TBD vs TBD
@@ -379,5 +379,61 @@ DTEND:20260712T020000Z
 UID:pandascore-1577283@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
  https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 2: Kaleido Gaming vs The Huns Esports
+DTSTART:20260710T050000Z
+DTEND:20260710T073000Z
+UID:pandascore-1579763@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://www.huya.com/blast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 1: TYLOO vs The MongolZ Academy
+DTSTART:20260710T073000Z
+DTEND:20260710T100000Z
+UID:pandascore-1579762@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://www.huya.com/blast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 3: 5star vs Alter Ego
+DTSTART:20260710T100000Z
+DTEND:20260710T123000Z
+UID:pandascore-1579764@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://www.huya.com/blast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 4: Ground Zero vs Lynn Vision
+DTSTART:20260710T123000Z
+DTEND:20260710T150000Z
+UID:pandascore-1579765@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://www.huya.com/blast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 1: TBD vs TBD
+DTSTART:20260711T020000Z
+DTEND:20260711T043000Z
+UID:pandascore-1579766@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://www.huya.com/blast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 2: TBD vs TBD
+DTSTART:20260711T053000Z
+DTEND:20260711T080000Z
+UID:pandascore-1579767@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://www.huya.com/blast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand final: TBD vs TBD
+DTSTART:20260712T060000Z
+DTEND:20260712T083000Z
+UID:pandascore-1579768@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
+ https://www.huya.com/blast
 END:VEVENT
 END:VCALENDAR
