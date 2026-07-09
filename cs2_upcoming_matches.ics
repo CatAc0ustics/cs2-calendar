@@ -357,7 +357,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream:
  https://kick.com/circuitx
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: M80 vs TBD
 DTSTART:20260710T223000Z
 DTEND:20260711T010000Z
 UID:pandascore-1577281@cs2
