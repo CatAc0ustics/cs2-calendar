@@ -414,24 +414,24 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Semifinal 1: The Huns Esports vs TYLOO
-DTSTART:20260711T020000Z
-DTEND:20260711T043000Z
+DTSTART:20260711T063000Z
+DTEND:20260711T090000Z
 UID:pandascore-1579766@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
- https://www.huya.com/blast
+ No stream available
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 2: 5star vs TBD
-DTSTART:20260711T053000Z
-DTEND:20260711T080000Z
+SUMMARY:Semifinal 2: 5star vs Lynn Vision
+DTSTART:20260711T090000Z
+DTEND:20260711T113000Z
 UID:pandascore-1579767@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
- https://www.huya.com/blast
+ No stream available
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grand final: TBD vs TBD
-DTSTART:20260712T060000Z
-DTEND:20260712T083000Z
+DTSTART:20260712T063000Z
+DTEND:20260712T090000Z
 UID:pandascore-1579768@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
  https://www.huya.com/blast
