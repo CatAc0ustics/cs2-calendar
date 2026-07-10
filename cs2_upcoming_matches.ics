@@ -413,7 +413,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream:
  https://www.twitch.tv/betboom_cs_ru3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 1: The Huns Esports vs TBD
+SUMMARY:Semifinal 1: The Huns Esports vs TYLOO
 DTSTART:20260711T020000Z
 DTEND:20260711T043000Z
 UID:pandascore-1579766@cs2
