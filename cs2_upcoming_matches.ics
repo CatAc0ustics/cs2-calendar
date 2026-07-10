@@ -357,7 +357,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream:
  https://kick.com/circuitx
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 1: M80 vs TBD
+SUMMARY:Semifinal 1: M80 vs LAG Gaming
 DTSTART:20260710T223000Z
 DTEND:20260711T010000Z
 UID:pandascore-1577281@cs2
@@ -365,12 +365,12 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream:
  https://www.twitch.tv/circuitxofficial
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 2: regain vs Voca
+SUMMARY:Semifinal 2: Voca vs regain
 DTSTART:20260711T013000Z
 DTEND:20260711T040000Z
 UID:pandascore-1577282@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
- https://kick.com/circuitx
+ https://www.twitch.tv/circuitxofficial
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grand final: TBD vs TBD
@@ -394,7 +394,7 @@ DTSTART:20260710T073000Z
 DTEND:20260710T100000Z
 UID:pandascore-1579762@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
- https://www.huya.com/blast
+ https://www.twitch.tv/betboom_cs_ru3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 3: 5star vs Alter Ego
@@ -402,7 +402,7 @@ DTSTART:20260710T100000Z
 DTEND:20260710T123000Z
 UID:pandascore-1579764@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
- https://www.huya.com/blast
+ https://www.twitch.tv/betboom_cs_ru3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 4: Ground Zero vs Lynn Vision
@@ -410,10 +410,10 @@ DTSTART:20260710T123000Z
 DTEND:20260710T150000Z
 UID:pandascore-1579765@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
- https://www.huya.com/blast
+ https://www.twitch.tv/betboom_cs_ru3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: The Huns Esports vs TBD
 DTSTART:20260711T020000Z
 DTEND:20260711T043000Z
 UID:pandascore-1579766@cs2
