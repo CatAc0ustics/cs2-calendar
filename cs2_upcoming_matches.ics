@@ -365,7 +365,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream:
  https://www.twitch.tv/circuitxofficial
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: regain vs Voca
 DTSTART:20260711T013000Z
 DTEND:20260711T040000Z
 UID:pandascore-1577282@cs2
