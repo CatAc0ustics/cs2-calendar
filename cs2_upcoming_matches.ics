@@ -429,11 +429,235 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream:
  No stream available
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: TYLOO vs TBD
 DTSTART:20260712T063000Z
 DTEND:20260712T090000Z
 UID:pandascore-1579768@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
  https://www.huya.com/blast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bushido Wildcats vs MOUZ NXT
+DTSTART:20260712T130000Z
+DTEND:20260712T153000Z
+UID:pandascore-1582127@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group D\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPARTA vs Noir Verse
+DTSTART:20260712T130000Z
+DTEND:20260712T153000Z
+UID:pandascore-1582126@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group D\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atreides vs Just Players
+DTSTART:20260712T130000Z
+DTEND:20260712T153000Z
+UID:pandascore-1582122@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group C\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GenOne vs Entropy
+DTSTART:20260712T130000Z
+DTEND:20260712T153000Z
+UID:pandascore-1582121@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group C\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QUAZAR vs The Last Resort
+DTSTART:20260712T130000Z
+DTEND:20260712T153000Z
+UID:pandascore-1582117@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group B\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:fnatic vs Misa Esports
+DTSTART:20260712T130000Z
+DTEND:20260712T153000Z
+UID:pandascore-1582116@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group B\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inner Circle Academy vs Brute
+DTSTART:20260712T130000Z
+DTEND:20260712T153000Z
+UID:pandascore-1582112@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group A\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOTU vs Vexar
+DTSTART:20260712T130000Z
+DTEND:20260712T153000Z
+UID:pandascore-1582111@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group A\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elimination match: TBD vs TBD
+DTSTART:20260712T170000Z
+DTEND:20260712T193000Z
+UID:pandascore-1582129@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group D\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winners match: TBD vs TBD
+DTSTART:20260712T170000Z
+DTEND:20260712T193000Z
+UID:pandascore-1582128@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group D\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elimination match: TBD vs TBD
+DTSTART:20260712T170000Z
+DTEND:20260712T193000Z
+UID:pandascore-1582124@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group C\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winners match: TBD vs TBD
+DTSTART:20260712T170000Z
+DTEND:20260712T193000Z
+UID:pandascore-1582123@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group C\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elimination match: TBD vs TBD
+DTSTART:20260712T170000Z
+DTEND:20260712T193000Z
+UID:pandascore-1582119@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group B\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winners match: TBD vs TBD
+DTSTART:20260712T170000Z
+DTEND:20260712T193000Z
+UID:pandascore-1582118@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group B\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elimination match: TBD vs TBD
+DTSTART:20260712T170000Z
+DTEND:20260712T193000Z
+UID:pandascore-1582114@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group A\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winners match: TBD vs TBD
+DTSTART:20260712T170000Z
+DTEND:20260712T193000Z
+UID:pandascore-1582113@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group A\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decider match: TBD vs TBD
+DTSTART:20260713T130000Z
+DTEND:20260713T153000Z
+UID:pandascore-1582130@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group D\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decider match: TBD vs TBD
+DTSTART:20260713T130000Z
+DTEND:20260713T153000Z
+UID:pandascore-1582125@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group C\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decider match: TBD vs TBD
+DTSTART:20260713T130000Z
+DTEND:20260713T153000Z
+UID:pandascore-1582120@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group B\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decider match: TBD vs TBD
+DTSTART:20260713T130000Z
+DTEND:20260713T153000Z
+UID:pandascore-1582115@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Group A\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 4: TBD vs TBD
+DTSTART:20260713T170000Z
+DTEND:20260713T193000Z
+UID:pandascore-1582134@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Playoffs\nFormat: BO
+ 3\nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 3: TBD vs TBD
+DTSTART:20260713T170000Z
+DTEND:20260713T193000Z
+UID:pandascore-1582133@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Playoffs\nFormat: BO
+ 3\nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 2: TBD vs TBD
+DTSTART:20260713T170000Z
+DTEND:20260713T193000Z
+UID:pandascore-1582132@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Playoffs\nFormat: BO
+ 3\nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 1: TBD vs TBD
+DTSTART:20260713T170000Z
+DTEND:20260713T193000Z
+UID:pandascore-1582131@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Playoffs\nFormat: BO
+ 3\nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 2: TBD vs TBD
+DTSTART:20260714T110000Z
+DTEND:20260714T133000Z
+UID:pandascore-1582136@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Playoffs\nFormat: BO
+ 3\nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 1: TBD vs TBD
+DTSTART:20260714T110000Z
+DTEND:20260714T133000Z
+UID:pandascore-1582135@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Playoffs\nFormat: BO
+ 3\nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3rd place decider: TBD vs TBD
+DTSTART:20260714T150000Z
+DTEND:20260714T173000Z
+UID:pandascore-1582138@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Playoffs\nFormat: BO
+ 3\nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand final: TBD vs TBD
+DTSTART:20260714T150000Z
+DTEND:20260714T173000Z
+UID:pandascore-1582137@cs2
+DESCRIPTION:Tournament: ESL Challenger League\nStage: Playoffs\nFormat: BO
+ 3\nStream: No stream available
 END:VEVENT
 END:VCALENDAR
