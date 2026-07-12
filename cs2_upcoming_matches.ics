@@ -501,23 +501,23 @@ DESCRIPTION:Tournament: ESL Challenger League\nStage: Group A\nFormat: BO3
  \nStream: No stream available
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: MOUZ NXT vs Noir Verse
 DTSTART:20260712T170000Z
 DTEND:20260712T193000Z
 UID:pandascore-1582129@cs2
 DESCRIPTION:Tournament: ESL Challenger League\nStage: Group D\nFormat: BO3
- \nStream: No stream available
+ \nStream: https://www.twitch.tv/nagu_fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: SPARTA vs Bushido Wildcats
 DTSTART:20260712T170000Z
 DTEND:20260712T193000Z
 UID:pandascore-1582128@cs2
 DESCRIPTION:Tournament: ESL Challenger League\nStage: Group D\nFormat: BO3
- \nStream: No stream available
+ \nStream: https://kick.com/majkibets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Entropy vs Atreides
 DTSTART:20260712T170000Z
 DTEND:20260712T193000Z
 UID:pandascore-1582124@cs2
@@ -525,31 +525,31 @@ DESCRIPTION:Tournament: ESL Challenger League\nStage: Group C\nFormat: BO3
  \nStream: No stream available
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: GenOne vs Just Players
 DTSTART:20260712T170000Z
 DTEND:20260712T193000Z
 UID:pandascore-1582123@cs2
 DESCRIPTION:Tournament: ESL Challenger League\nStage: Group C\nFormat: BO3
- \nStream: No stream available
+ \nStream: https://www.twitch.tv/Mikotohero
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elimination match: TBD vs TBD
-DTSTART:20260712T170000Z
-DTEND:20260712T193000Z
+SUMMARY:Elimination match: QUAZAR vs TBD
+DTSTART:20260712T174500Z
+DTEND:20260712T201500Z
 UID:pandascore-1582119@cs2
 DESCRIPTION:Tournament: ESL Challenger League\nStage: Group B\nFormat: BO3
  \nStream: No stream available
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winners match: TBD vs TBD
-DTSTART:20260712T170000Z
-DTEND:20260712T193000Z
+SUMMARY:Winners match: The Last Resort vs TBD
+DTSTART:20260712T174500Z
+DTEND:20260712T201500Z
 UID:pandascore-1582118@cs2
 DESCRIPTION:Tournament: ESL Challenger League\nStage: Group B\nFormat: BO3
- \nStream: No stream available
+ \nStream: https://www.twitch.tv/sh1ngekiiii
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Vexar vs TBD
 DTSTART:20260712T170000Z
 DTEND:20260712T193000Z
 UID:pandascore-1582114@cs2
@@ -557,9 +557,9 @@ DESCRIPTION:Tournament: ESL Challenger League\nStage: Group A\nFormat: BO3
  \nStream: No stream available
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winners match: TBD vs TBD
-DTSTART:20260712T170000Z
-DTEND:20260712T193000Z
+SUMMARY:Winners match: HOTU vs TBD
+DTSTART:20260712T173000Z
+DTEND:20260712T200000Z
 UID:pandascore-1582113@cs2
 DESCRIPTION:Tournament: ESL Challenger League\nStage: Group A\nFormat: BO3
  \nStream: No stream available
