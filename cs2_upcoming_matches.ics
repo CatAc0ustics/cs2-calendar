@@ -565,7 +565,7 @@ DESCRIPTION:Tournament: ESL Challenger League\nStage: Group A\nFormat: BO3
  \nStream: No stream available
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: MOUZ NXT vs TBD
 DTSTART:20260713T130000Z
 DTEND:20260713T153000Z
 UID:pandascore-1582130@cs2
@@ -573,7 +573,7 @@ DESCRIPTION:Tournament: ESL Challenger League\nStage: Group D\nFormat: BO3
  \nStream: No stream available
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Just Players vs Entropy
 DTSTART:20260713T130000Z
 DTEND:20260713T153000Z
 UID:pandascore-1582125@cs2
@@ -581,7 +581,7 @@ DESCRIPTION:Tournament: ESL Challenger League\nStage: Group C\nFormat: BO3
  \nStream: No stream available
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: The Last Resort vs TBD
 DTSTART:20260713T130000Z
 DTEND:20260713T153000Z
 UID:pandascore-1582120@cs2
@@ -589,7 +589,7 @@ DESCRIPTION:Tournament: ESL Challenger League\nStage: Group B\nFormat: BO3
  \nStream: No stream available
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Inner Circle Academy vs Brute
 DTSTART:20260713T130000Z
 DTEND:20260713T153000Z
 UID:pandascore-1582115@cs2
