@@ -434,7 +434,7 @@ DTSTART:20260712T063000Z
 DTEND:20260712T090000Z
 UID:pandascore-1579768@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Playoffs\nFormat: BO3\nStream: 
- https://www.huya.com/blast
+ https://www.twitch.tv/mariomax11
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bushido Wildcats vs MOUZ NXT
