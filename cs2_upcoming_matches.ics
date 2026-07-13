@@ -570,7 +570,7 @@ DTSTART:20260713T130000Z
 DTEND:20260713T153000Z
 UID:pandascore-1582130@cs2
 DESCRIPTION:Tournament: ESL Challenger League\nStage: Group D\nFormat: BO3
- \nStream: No stream available
+ \nStream: https://www.twitch.tv/vanfantv
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decider match: Just Players vs Entropy
@@ -578,7 +578,7 @@ DTSTART:20260713T130000Z
 DTEND:20260713T153000Z
 UID:pandascore-1582125@cs2
 DESCRIPTION:Tournament: ESL Challenger League\nStage: Group C\nFormat: BO3
- \nStream: No stream available
+ \nStream: https://www.twitch.tv/misterhenrybatt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decider match: The Last Resort vs QUAZAR
@@ -586,7 +586,7 @@ DTSTART:20260713T130000Z
 DTEND:20260713T153000Z
 UID:pandascore-1582120@cs2
 DESCRIPTION:Tournament: ESL Challenger League\nStage: Group B\nFormat: BO3
- \nStream: No stream available
+ \nStream: https://www.twitch.tv/sh1ngekiiii
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decider match: Brute vs Inner Circle Academy
@@ -594,7 +594,7 @@ DTSTART:20260713T130000Z
 DTEND:20260713T153000Z
 UID:pandascore-1582115@cs2
 DESCRIPTION:Tournament: ESL Challenger League\nStage: Group A\nFormat: BO3
- \nStream: No stream available
+ \nStream: https://www.twitch.tv/iamfusiion
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 4: TBD vs TBD
