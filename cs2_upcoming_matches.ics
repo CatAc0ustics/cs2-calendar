@@ -629,7 +629,7 @@ DESCRIPTION:Tournament: ESL Challenger League\nStage: Playoffs\nFormat: BO
  3\nStream: No stream available
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: fnatic vs Brute
 DTSTART:20260714T110000Z
 DTEND:20260714T133000Z
 UID:pandascore-1582136@cs2
@@ -637,7 +637,7 @@ DESCRIPTION:Tournament: ESL Challenger League\nStage: Playoffs\nFormat: BO
  3\nStream: No stream available
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: QUAZAR vs TBD
 DTSTART:20260714T110000Z
 DTEND:20260714T133000Z
 UID:pandascore-1582135@cs2
