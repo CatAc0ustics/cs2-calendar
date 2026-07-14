@@ -634,10 +634,10 @@ DTSTART:20260714T110000Z
 DTEND:20260714T133000Z
 UID:pandascore-1582136@cs2
 DESCRIPTION:Tournament: ESL Challenger League\nStage: Playoffs\nFormat: BO
- 3\nStream: No stream available
+ 3\nStream: https://www.twitch.tv/Mikotohero
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 1: QUAZAR vs TBD
+SUMMARY:Semifinal 1: QUAZAR vs HOTU
 DTSTART:20260714T110000Z
 DTEND:20260714T133000Z
 UID:pandascore-1582135@cs2
@@ -658,6 +658,6 @@ DTSTART:20260714T150000Z
 DTEND:20260714T173000Z
 UID:pandascore-1582137@cs2
 DESCRIPTION:Tournament: ESL Challenger League\nStage: Playoffs\nFormat: BO
- 3\nStream: No stream available
+ 3\nStream: https://www.twitch.tv/Mikotohero
 END:VEVENT
 END:VCALENDAR
