@@ -852,4 +852,60 @@ UID:pandascore-1592779@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/BLASTPremier
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 1: TBD vs TBD
+DTSTART:20260730T130000Z
+DTEND:20260730T153000Z
+UID:pandascore-1593361@cs2
+DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO3\nStream
+ : https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 2: TBD vs TBD
+DTSTART:20260730T160000Z
+DTEND:20260730T183000Z
+UID:pandascore-1593362@cs2
+DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO3\nStream
+ : https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 3: TBD vs TBD
+DTSTART:20260731T123000Z
+DTEND:20260731T150000Z
+UID:pandascore-1593363@cs2
+DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO3\nStream
+ : https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 4: TBD vs TBD
+DTSTART:20260731T153000Z
+DTEND:20260731T180000Z
+UID:pandascore-1593364@cs2
+DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO3\nStream
+ : https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 1: TBD vs TBD
+DTSTART:20260801T103000Z
+DTEND:20260801T130000Z
+UID:pandascore-1593365@cs2
+DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO3\nStream
+ : https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 2: TBD vs TBD
+DTSTART:20260801T133000Z
+DTEND:20260801T160000Z
+UID:pandascore-1593366@cs2
+DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO3\nStream
+ : https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand final: TBD vs TBD
+DTSTART:20260802T103000Z
+DTEND:20260802T130000Z
+UID:pandascore-1593367@cs2
+DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO5\nStream
+ : https://www.twitch.tv/BLASTPremier
+END:VEVENT
 END:VCALENDAR
