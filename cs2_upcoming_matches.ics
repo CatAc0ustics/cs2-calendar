@@ -940,4 +940,36 @@ UID:pandascore-1595602@cs2
 DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group A\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:magic vs Walczaki
+DTSTART:20260721T100000Z
+DTEND:20260721T123000Z
+UID:pandascore-1595605@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group C\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3DMAX vs Gentle Mates
+DTSTART:20260721T130000Z
+DTEND:20260721T153000Z
+UID:pandascore-1595606@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group C\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NIP vs 100 Thieves
+DTSTART:20260722T130000Z
+DTEND:20260722T153000Z
+UID:pandascore-1595607@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group D\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nuclear TigeRES vs ECHO
+DTSTART:20260722T160000Z
+DTEND:20260722T183000Z
+UID:pandascore-1595608@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group D\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
 END:VCALENDAR
