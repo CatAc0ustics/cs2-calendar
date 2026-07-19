@@ -908,4 +908,36 @@ UID:pandascore-1593367@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO5\nStream
  : https://www.twitch.tv/BLASTPremier
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOTU vs Heroic
+DTSTART:20260721T130000Z
+DTEND:20260721T153000Z
+UID:pandascore-1595604@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group B\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Astralis vs FOKUS
+DTSTART:20260721T160000Z
+DTEND:20260721T183000Z
+UID:pandascore-1595603@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group B\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aurora Gaming vs K27
+DTSTART:20260722T100000Z
+DTEND:20260722T123000Z
+UID:pandascore-1595601@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group A\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infinite vs Team Nemesis
+DTSTART:20260722T130000Z
+DTEND:20260722T153000Z
+UID:pandascore-1595602@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group A\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
 END:VCALENDAR
