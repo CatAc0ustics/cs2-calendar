@@ -972,4 +972,100 @@ UID:pandascore-1595608@cs2
 DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group D\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winners match: TBD vs TBD
+DTSTART:20260721T160000Z
+DTEND:20260721T183000Z
+UID:pandascore-1596460@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group C\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winners match: TBD vs TBD
+DTSTART:20260722T100000Z
+DTEND:20260722T123000Z
+UID:pandascore-1596457@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group B\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winners match: TBD vs TBD
+DTSTART:20260722T160000Z
+DTEND:20260722T183000Z
+UID:pandascore-1596454@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group A\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elimination match: TBD vs TBD
+DTSTART:20260723T110000Z
+DTEND:20260723T133000Z
+UID:pandascore-1596461@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group C\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elimination match: TBD vs TBD
+DTSTART:20260723T133000Z
+DTEND:20260723T160000Z
+UID:pandascore-1596464@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group D\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winners match: TBD vs TBD
+DTSTART:20260723T133000Z
+DTEND:20260723T160000Z
+UID:pandascore-1596463@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group D\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elimination match: TBD vs TBD
+DTSTART:20260723T160000Z
+DTEND:20260723T183000Z
+UID:pandascore-1596458@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group B\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elimination match: TBD vs TBD
+DTSTART:20260723T160000Z
+DTEND:20260723T183000Z
+UID:pandascore-1596455@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group A\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decider match: TBD vs TBD
+DTSTART:20260724T130000Z
+DTEND:20260724T153000Z
+UID:pandascore-1596465@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group D\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decider match: TBD vs TBD
+DTSTART:20260724T130000Z
+DTEND:20260724T153000Z
+UID:pandascore-1596456@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group A\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decider match: TBD vs TBD
+DTSTART:20260724T160000Z
+DTEND:20260724T183000Z
+UID:pandascore-1596462@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group C\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decider match: TBD vs TBD
+DTSTART:20260724T160000Z
+DTEND:20260724T183000Z
+UID:pandascore-1596459@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group B\nFormat: BO3
+ \nStream: https://kick.com/starladder1
+END:VEVENT
 END:VCALENDAR
