@@ -1068,4 +1068,277 @@ UID:pandascore-1596459@cs2
 DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group B\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 2: TBD vs TBD
+DTSTART:20260725T130000Z
+DTEND:20260725T153000Z
+UID:pandascore-1596467@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Play-In\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 1: TBD vs TBD
+DTSTART:20260725T130000Z
+DTEND:20260725T153000Z
+UID:pandascore-1596466@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Play-In\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 4: TBD vs TBD
+DTSTART:20260725T160000Z
+DTEND:20260725T183000Z
+UID:pandascore-1596469@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Play-In\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 3: TBD vs TBD
+DTSTART:20260725T160000Z
+DTEND:20260725T183000Z
+UID:pandascore-1596468@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Play-In\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 1: TBD vs TBD
+DTSTART:20260726T130000Z
+DTEND:20260726T153000Z
+UID:pandascore-1596471@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Play-In\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 2: TBD vs TBD
+DTSTART:20260726T160000Z
+DTEND:20260726T183000Z
+UID:pandascore-1596472@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Play-In\nFormat: BO3
+ \nStream: No stream available
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 1: MIBR vs Fluxo W7M
+DTSTART:20260728T150000Z
+DTEND:20260728T173000Z
+UID:pandascore-1596521@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 2: Turma do Pagode vs largadosypelados
+DTSTART:20260728T180000Z
+DTEND:20260728T203000Z
+UID:pandascore-1596522@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 1: NRG vs Iowa Stormboar
+DTSTART:20260728T190000Z
+DTEND:20260728T213000Z
+UID:pandascore-1596575@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 4: Imperial vs BESTIA
+DTSTART:20260728T210000Z
+DTEND:20260728T233000Z
+UID:pandascore-1596524@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 2: LAG Gaming vs Marsborne
+DTSTART:20260728T220000Z
+DTEND:20260729T003000Z
+UID:pandascore-1596576@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 4: regain vs Voca
+DTSTART:20260729T010000Z
+DTEND:20260729T033000Z
+UID:pandascore-1596578@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 3: ShindeN vs Galorys
+DTSTART:20260729T150000Z
+DTEND:20260729T173000Z
+UID:pandascore-1596523@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+DTSTART:20260729T180000Z
+DTEND:20260729T203000Z
+UID:pandascore-1596525@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 3: Chicken Coop Esports vs SportsBetExp
+ ert
+DTSTART:20260729T190000Z
+DTEND:20260729T213000Z
+UID:pandascore-1596577@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+DTSTART:20260729T210000Z
+DTEND:20260729T233000Z
+UID:pandascore-1596529@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+DTSTART:20260729T220000Z
+DTEND:20260730T003000Z
+UID:pandascore-1596579@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+DTSTART:20260730T010000Z
+DTEND:20260730T033000Z
+UID:pandascore-1596583@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+DTSTART:20260730T180000Z
+DTEND:20260730T203000Z
+UID:pandascore-1596526@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+DTSTART:20260730T210000Z
+DTEND:20260730T233000Z
+UID:pandascore-1596530@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+DTSTART:20260730T220000Z
+DTEND:20260731T003000Z
+UID:pandascore-1596580@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+DTSTART:20260731T010000Z
+DTEND:20260731T033000Z
+UID:pandascore-1596584@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+DTSTART:20260731T180000Z
+DTEND:20260731T203000Z
+UID:pandascore-1596531@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+DTSTART:20260731T210000Z
+DTEND:20260731T233000Z
+UID:pandascore-1596532@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+DTSTART:20260731T220000Z
+DTEND:20260801T003000Z
+UID:pandascore-1596585@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+DTSTART:20260801T010000Z
+DTEND:20260801T033000Z
+UID:pandascore-1596586@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket final: TBD vs TBD
+DTSTART:20260801T180000Z
+DTEND:20260801T203000Z
+UID:pandascore-1596527@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+DTSTART:20260801T210000Z
+DTEND:20260801T233000Z
+UID:pandascore-1596533@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket final: TBD vs TBD
+DTSTART:20260801T220000Z
+DTEND:20260802T003000Z
+UID:pandascore-1596581@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+DTSTART:20260802T010000Z
+DTEND:20260802T033000Z
+UID:pandascore-1596587@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket final: TBD vs TBD
+DTSTART:20260802T180000Z
+DTEND:20260802T203000Z
+UID:pandascore-1596534@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand final: TBD vs TBD
+DTSTART:20260802T210000Z
+DTEND:20260802T233000Z
+UID:pandascore-1596528@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket final: TBD vs TBD
+DTSTART:20260802T220000Z
+DTEND:20260803T003000Z
+UID:pandascore-1596588@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand final: TBD vs TBD
+DTSTART:20260803T010000Z
+DTEND:20260803T033000Z
+UID:pandascore-1596582@cs2
+DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Playoffs\nFormat: BO
+ 3\nStream: https://kick.com/starladder
+END:VEVENT
 END:VCALENDAR
