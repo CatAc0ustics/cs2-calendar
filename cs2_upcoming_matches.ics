@@ -674,7 +674,7 @@ DTSTART:20260721T123000Z
 DTEND:20260721T150000Z
 UID:pandascore-1592761@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.twitch.tv/izakooo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 4: Nuclear TigeRES vs MOUZ
@@ -682,7 +682,7 @@ DTSTART:20260721T150000Z
 DTEND:20260721T173000Z
 UID:pandascore-1592757@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://kick.com/bladeito
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 16: Alliance vs Wildcard
@@ -690,7 +690,7 @@ DTSTART:20260721T173000Z
 DTEND:20260721T200000Z
 UID:pandascore-1592769@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.twitch.tv/izakooo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 14: EYEBALLERS vs FaZe
@@ -914,7 +914,7 @@ DTSTART:20260721T130000Z
 DTEND:20260721T153000Z
 UID:pandascore-1595604@cs2
 DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group B\nFormat: BO3
- \nStream: https://kick.com/starladder1
+ \nStream: https://www.twitch.tv/tavarescs2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Astralis vs FOKUS
