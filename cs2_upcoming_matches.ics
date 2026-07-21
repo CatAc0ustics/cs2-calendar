@@ -973,7 +973,7 @@ DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group D\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: magic vs TBD
 DTSTART:20260721T160000Z
 DTEND:20260721T183000Z
 UID:pandascore-1596460@cs2
@@ -997,7 +997,7 @@ DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group A\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Walczaki vs TBD
 DTSTART:20260723T110000Z
 DTEND:20260723T133000Z
 UID:pandascore-1596461@cs2
