@@ -686,8 +686,8 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 16: Alliance vs Wildcard
-DTSTART:20260721T173000Z
-DTEND:20260721T200000Z
+DTSTART:20260721T180000Z
+DTEND:20260721T203000Z
 UID:pandascore-1592769@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/izakooo
@@ -981,7 +981,7 @@ DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group C\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: HOTU vs TBD
 DTSTART:20260722T100000Z
 DTEND:20260722T123000Z
 UID:pandascore-1596457@cs2
@@ -997,7 +997,7 @@ DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group A\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elimination match: Walczaki vs TBD
+SUMMARY:Elimination match: Walczaki vs 3DMAX
 DTSTART:20260723T110000Z
 DTEND:20260723T133000Z
 UID:pandascore-1596461@cs2
@@ -1021,7 +1021,7 @@ DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group D\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Heroic vs TBD
 DTSTART:20260723T160000Z
 DTEND:20260723T183000Z
 UID:pandascore-1596458@cs2
