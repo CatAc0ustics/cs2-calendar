@@ -981,7 +981,7 @@ DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group C\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winners match: HOTU vs TBD
+SUMMARY:Winners match: HOTU vs Astralis
 DTSTART:20260722T100000Z
 DTEND:20260722T123000Z
 UID:pandascore-1596457@cs2
@@ -1021,7 +1021,7 @@ DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group D\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elimination match: Heroic vs TBD
+SUMMARY:Elimination match: Heroic vs FOKUS
 DTSTART:20260723T160000Z
 DTEND:20260723T183000Z
 UID:pandascore-1596458@cs2
@@ -1053,7 +1053,7 @@ DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group A\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Gentle Mates vs TBD
 DTSTART:20260724T160000Z
 DTEND:20260724T183000Z
 UID:pandascore-1596462@cs2
