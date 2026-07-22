@@ -970,7 +970,7 @@ DTSTART:20260722T160000Z
 DTEND:20260722T183000Z
 UID:pandascore-1595608@cs2
 DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group D\nFormat: BO3
- \nStream: https://kick.com/starladder1
+ \nStream: https://kick.com/kevinmpv
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winners match: magic vs TBD
@@ -989,7 +989,7 @@ DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group B\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: Aurora Gaming vs TBD
 DTSTART:20260722T160000Z
 DTEND:20260722T183000Z
 UID:pandascore-1596454@cs2
@@ -1029,7 +1029,7 @@ DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group B\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: K27 vs TBD
 DTSTART:20260723T160000Z
 DTEND:20260723T183000Z
 UID:pandascore-1596455@cs2
@@ -1061,7 +1061,7 @@ DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group C\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Astralis vs TBD
 DTSTART:20260724T160000Z
 DTEND:20260724T183000Z
 UID:pandascore-1596459@cs2
