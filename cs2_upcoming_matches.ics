@@ -706,7 +706,7 @@ DTSTART:20260722T123000Z
 DTEND:20260722T150000Z
 UID:pandascore-1592764@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.youtube.com/watch?v=c2gOgJKZy30
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 7: HOTU vs GamerLegion
@@ -758,32 +758,32 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 12: magic vs 3DMAX
-DTSTART:20260724T100000Z
-DTEND:20260724T123000Z
+DTSTART:20260724T090000Z
+DTEND:20260724T113000Z
 UID:pandascore-1592765@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 5: Heroic vs TheMongolz
-DTSTART:20260724T123000Z
-DTEND:20260724T150000Z
+DTSTART:20260724T113000Z
+DTEND:20260724T140000Z
 UID:pandascore-1592758@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 1: Liquid vs Vitality
-DTSTART:20260724T150000Z
-DTEND:20260724T173000Z
+DTSTART:20260724T140000Z
+DTEND:20260724T163000Z
 UID:pandascore-1592754@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 9: Sharks vs FURIA
-DTSTART:20260724T173000Z
-DTEND:20260724T200000Z
+DTSTART:20260724T163000Z
+DTEND:20260724T190000Z
 UID:pandascore-1592762@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/BLASTPremier
@@ -938,7 +938,7 @@ DTSTART:20260722T130000Z
 DTEND:20260722T153000Z
 UID:pandascore-1595602@cs2
 DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group A\nFormat: BO3
- \nStream: https://kick.com/starladder1
+ \nStream: https://kick.com/mrdzinold
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:magic vs Walczaki
@@ -962,7 +962,7 @@ DTSTART:20260722T130000Z
 DTEND:20260722T153000Z
 UID:pandascore-1595607@cs2
 DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group D\nFormat: BO3
- \nStream: https://kick.com/starladder1
+ \nStream: https://kick.com/kevinmpv
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nuclear TigeRES vs ECHO
@@ -998,24 +998,24 @@ DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group A\nFormat: BO3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elimination match: Walczaki vs 3DMAX
-DTSTART:20260723T110000Z
-DTEND:20260723T133000Z
+DTSTART:20260723T100000Z
+DTEND:20260723T123000Z
 UID:pandascore-1596461@cs2
 DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group C\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elimination match: TBD vs TBD
-DTSTART:20260723T133000Z
-DTEND:20260723T160000Z
+DTSTART:20260723T130000Z
+DTEND:20260723T153000Z
 UID:pandascore-1596464@cs2
 DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group D\nFormat: BO3
  \nStream: https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winners match: TBD vs TBD
-DTSTART:20260723T133000Z
-DTEND:20260723T160000Z
+DTSTART:20260723T130000Z
+DTEND:20260723T153000Z
 UID:pandascore-1596463@cs2
 DESCRIPTION:Tournament: StarLadder StarSeries\nStage: Group D\nFormat: BO3
  \nStream: https://kick.com/starladder1
