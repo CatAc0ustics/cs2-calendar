@@ -710,11 +710,11 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 7: HOTU vs GamerLegion
-DTSTART:20260722T150000Z
-DTEND:20260722T173000Z
+DTSTART:20260722T153000Z
+DTEND:20260722T180000Z
 UID:pandascore-1592760@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://kick.com/tvarenaesport
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 3: Team Falcons vs 100 Thieves
@@ -722,7 +722,7 @@ DTSTART:20260722T173000Z
 DTEND:20260722T200000Z
 UID:pandascore-1592756@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.youtube.com/watch?v=vu4aYOU4J9k
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 6: Aurora Gaming vs FOKUS
