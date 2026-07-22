@@ -5,7 +5,7 @@ from icalendar import Calendar, Event
 
 TOKEN = os.environ.get("PANDASCORE_TOKEN")
 URL = "https://api.pandascore.co/csgo/matches/upcoming"
-ALLOWED_ORGANIZERS = ['esl', 'blast', 'pgl', 'starladder', 'iem', 'intel extreme masters', 'dreamhack', 'major']
+ALLOWED_ORGANIZERS = ['esl', 'blast', 'pgl', 'iem', 'intel extreme masters', 'dreamhack', 'major']
 
 headers = {
     "Authorization": f"Bearer {TOKEN}",
@@ -61,6 +61,11 @@ for match in all_matches:
         continue
         
     stage_name = match.get('tournament', {}).get('name', 'Unknown Stage')
+    
+    full_info = f"{tournament_name} {stage_name} {match_name}".lower()
+    if "challenger league" in full_info or "challengers league" in full_info or ("blast open" in full_info and "playoff" in full_info):
+        continue
+
     num_games = match.get('number_of_games')
     match_format = f"BO{num_games}" if num_games else "Unknown Format"
         
