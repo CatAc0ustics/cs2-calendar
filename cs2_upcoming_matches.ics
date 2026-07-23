@@ -781,7 +781,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 32 match 9: Sharks vs FURIA
+SUMMARY:Round of 32 match 9: DENDELE CS vs FURIA
 DTSTART:20260724T163000Z
 DTEND:20260724T190000Z
 UID:pandascore-1592762@cs2
