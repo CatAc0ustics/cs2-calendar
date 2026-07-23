@@ -750,11 +750,11 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 2: Spirit vs OG
-DTSTART:20260723T170000Z
-DTEND:20260723T193000Z
+DTSTART:20260723T180000Z
+DTEND:20260723T203000Z
 UID:pandascore-1592755@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.youtube.com/watch?v=rNJekz8dEm0
+ m: https://www.twitch.tv/x9nium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 12: magic vs 3DMAX
