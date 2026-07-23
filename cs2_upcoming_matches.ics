@@ -746,7 +746,7 @@ DTSTART:20260723T150000Z
 DTEND:20260723T173000Z
 UID:pandascore-1592766@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.twitch.tv/betboom_cs_ru
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 2: Spirit vs OG
@@ -754,7 +754,7 @@ DTSTART:20260723T170000Z
 DTEND:20260723T193000Z
 UID:pandascore-1592755@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.youtube.com/watch?v=rNJekz8dEm0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 12: magic vs 3DMAX
