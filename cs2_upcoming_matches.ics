@@ -770,7 +770,7 @@ DTSTART:20260724T113000Z
 DTEND:20260724T140000Z
 UID:pandascore-1592758@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://kick.com/bladeito
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 1: Liquid vs Vitality
@@ -778,7 +778,7 @@ DTSTART:20260724T140000Z
 DTEND:20260724T163000Z
 UID:pandascore-1592754@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://kick.com/bladeito
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 9: DENDELE CS vs FURIA
@@ -786,7 +786,7 @@ DTSTART:20260724T163000Z
 DTEND:20260724T190000Z
 UID:pandascore-1592762@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://kick.com/bladeito
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 1: TBD vs TBD
