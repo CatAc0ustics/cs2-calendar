@@ -782,8 +782,8 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 32 match 9: DENDELE CS vs FURIA
-DTSTART:20260724T163000Z
-DTEND:20260724T190000Z
+DTSTART:20260724T180000Z
+DTEND:20260724T203000Z
 UID:pandascore-1592762@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://kick.com/bladeito
