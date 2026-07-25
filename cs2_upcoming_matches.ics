@@ -789,7 +789,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://kick.com/bladeito
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 1: TBD vs TBD
+SUMMARY:Round of 16 match 1: DENDELE CS vs FaZe
 DTSTART:20260725T100000Z
 DTEND:20260725T123000Z
 UID:pandascore-1592770@cs2
@@ -797,7 +797,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 2: TBD vs TBD
+SUMMARY:Round of 16 match 2: Liquid vs G2
 DTSTART:20260725T123000Z
 DTEND:20260725T150000Z
 UID:pandascore-1592771@cs2
@@ -805,7 +805,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 3: TBD vs TBD
+SUMMARY:Round of 16 match 3: HOTU vs Astralis
 DTSTART:20260725T150000Z
 DTEND:20260725T173000Z
 UID:pandascore-1592772@cs2
@@ -813,7 +813,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 4: TBD vs TBD
+SUMMARY:Round of 16 match 4: FOKUS vs MOUZ
 DTSTART:20260725T173000Z
 DTEND:20260725T200000Z
 UID:pandascore-1592773@cs2
@@ -821,7 +821,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 5: TBD vs TBD
+SUMMARY:Round of 16 match 5: NIP vs paiN
 DTSTART:20260726T100000Z
 DTEND:20260726T123000Z
 UID:pandascore-1592776@cs2
@@ -829,7 +829,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 6: TBD vs TBD
+SUMMARY:Round of 16 match 6: 3DMAX vs FUT Esports
 DTSTART:20260726T123000Z
 DTEND:20260726T150000Z
 UID:pandascore-1592777@cs2
@@ -837,7 +837,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 7: TBD vs TBD
+SUMMARY:Round of 16 match 7: Wildcard vs TheMongolz
 DTSTART:20260726T150000Z
 DTEND:20260726T173000Z
 UID:pandascore-1592778@cs2
@@ -845,7 +845,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 8: TBD vs TBD
+SUMMARY:Round of 16 match 8: 100 Thieves vs Spirit
 DTSTART:20260726T173000Z
 DTEND:20260726T200000Z
 UID:pandascore-1592779@cs2
