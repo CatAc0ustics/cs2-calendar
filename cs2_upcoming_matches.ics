@@ -794,7 +794,7 @@ DTSTART:20260725T100000Z
 DTEND:20260725T123000Z
 UID:pandascore-1592770@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.twitch.tv/ct0m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 2: Liquid vs G2
@@ -802,7 +802,7 @@ DTSTART:20260725T123000Z
 DTEND:20260725T150000Z
 UID:pandascore-1592771@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.twitch.tv/ct0m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 3: HOTU vs Astralis
@@ -810,7 +810,7 @@ DTSTART:20260725T150000Z
 DTEND:20260725T173000Z
 UID:pandascore-1592772@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.twitch.tv/ct0m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 4: FOKUS vs MOUZ
@@ -818,7 +818,7 @@ DTSTART:20260725T173000Z
 DTEND:20260725T200000Z
 UID:pandascore-1592773@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.twitch.tv/ct0m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 5: NIP vs paiN
