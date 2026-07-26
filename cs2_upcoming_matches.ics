@@ -826,7 +826,7 @@ DTSTART:20260726T100000Z
 DTEND:20260726T123000Z
 UID:pandascore-1592776@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.twitch.tv/alrumtv
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 6: 3DMAX vs FUT Esports
@@ -834,7 +834,7 @@ DTSTART:20260726T123000Z
 DTEND:20260726T150000Z
 UID:pandascore-1592777@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.twitch.tv/izakooo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 7: Wildcard vs TheMongolz
@@ -842,7 +842,7 @@ DTSTART:20260726T150000Z
 DTEND:20260726T173000Z
 UID:pandascore-1592778@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.twitch.tv/izakooo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 8: 100 Thieves vs Spirit
@@ -850,7 +850,7 @@ DTSTART:20260726T173000Z
 DTEND:20260726T200000Z
 UID:pandascore-1592779@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
- m: https://www.twitch.tv/BLASTPremier
+ m: https://www.twitch.tv/izakooo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 1: TBD vs TBD
