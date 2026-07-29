@@ -853,7 +853,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Qualifier\nFormat: BO3\nStrea
  m: https://www.twitch.tv/izakooo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: paiN vs Astralis
 DTSTART:20260730T130000Z
 DTEND:20260730T153000Z
 UID:pandascore-1593361@cs2
@@ -861,7 +861,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO3\nStream
  : https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: FaZe vs TheMongolz
 DTSTART:20260730T160000Z
 DTEND:20260730T183000Z
 UID:pandascore-1593362@cs2
@@ -869,7 +869,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO3\nStream
  : https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: 3DMAX vs MOUZ
 DTSTART:20260731T123000Z
 DTEND:20260731T150000Z
 UID:pandascore-1593363@cs2
@@ -877,7 +877,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO3\nStream
  : https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: Liquid vs Spirit
 DTSTART:20260731T153000Z
 DTEND:20260731T180000Z
 UID:pandascore-1593364@cs2
