@@ -885,7 +885,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO3\nStream
  : https://www.youtube.com/watch?v=GMFSZwDBiP0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: FaZe vs Spirit
 DTSTART:20260801T103000Z
 DTEND:20260801T130000Z
 UID:pandascore-1593365@cs2
@@ -893,7 +893,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO3\nStream
  : https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: Astralis vs MOUZ
 DTSTART:20260801T133000Z
 DTEND:20260801T160000Z
 UID:pandascore-1593366@cs2
