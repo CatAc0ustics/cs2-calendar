@@ -898,7 +898,7 @@ DTSTART:20260801T133000Z
 DTEND:20260801T160000Z
 UID:pandascore-1593366@cs2
 DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO3\nStream
- : https://www.twitch.tv/BLASTPremier
+ : https://www.twitch.tv/redcs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grand final: TBD vs TBD
