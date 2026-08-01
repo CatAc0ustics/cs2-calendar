@@ -901,7 +901,7 @@ DESCRIPTION:Tournament: BLAST Bounty\nStage: Playoffs\nFormat: BO3\nStream
  : https://www.twitch.tv/redcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: Spirit vs TBD
 DTSTART:20260802T103000Z
 DTEND:20260802T130000Z
 UID:pandascore-1593367@cs2
