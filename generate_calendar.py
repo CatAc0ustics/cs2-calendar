@@ -5,7 +5,11 @@ from icalendar import Calendar, Event
 
 TOKEN = os.environ.get("PANDASCORE_TOKEN")
 URL = "https://api.pandascore.co/csgo/matches/upcoming"
-ALLOWED_ORGANIZERS = ['esl', 'blast', 'pgl', 'iem', 'intel extreme masters', 'dreamhack', 'major']
+
+ALLOWED_ORGANIZERS = [
+    'esl', 'blast', 'pgl', 'iem', 'intel extreme masters', 
+    'dreamhack', 'major', 'ewc', 'road to ewc', 'esports world cup'
+]
 
 headers = {
     "Authorization": f"Bearer {TOKEN}",
