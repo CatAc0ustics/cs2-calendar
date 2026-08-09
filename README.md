@@ -3,7 +3,7 @@
 An automated Python script that fetches upcoming Tier-1 CS2 matches from the PandaScore API and generates a live, updating `.ics` calendar subscription feed.
 
 ## Features
-* Runs twice a day (12 AM/PM UTC) via GitHub Actions.
+* Runs multiple times a day via GitHub Actions.
 * Automatically strips out lower-tier tournaments.
 * Fully compatible with any calendar supporting `.ics` import.
 
