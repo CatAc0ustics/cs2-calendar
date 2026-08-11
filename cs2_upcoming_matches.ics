@@ -1375,72 +1375,72 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Play-Ins\nFormat: BO3\nS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 2: Luminosity vs GamerLegion
-DTSTART:20260812T110000Z
-DTEND:20260812T133000Z
+DTSTART:20260812T090000Z
+DTEND:20260812T113000Z
 UID:pandascore-1624078@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 1: Spirit vs JiJieHao
-DTSTART:20260812T121000Z
-DTEND:20260812T144000Z
+DTSTART:20260812T103000Z
+DTEND:20260812T130000Z
 UID:pandascore-1624077@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 4: BIG vs Aurora Gaming
-DTSTART:20260812T110000Z
-DTEND:20260812T133000Z
+DTSTART:20260812T090000Z
+DTEND:20260812T113000Z
 UID:pandascore-1624080@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 3: G2 vs M80
-DTSTART:20260812T132000Z
-DTEND:20260812T155000Z
+DTSTART:20260812T120000Z
+DTEND:20260812T143000Z
 UID:pandascore-1624079@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 2: MIBR vs Astralis
-DTSTART:20260812T165000Z
-DTEND:20260812T192000Z
+DTSTART:20260812T163000Z
+DTEND:20260812T190000Z
 UID:pandascore-1624088@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 1: Team Falcons vs K27
-DTSTART:20260812T143000Z
-DTEND:20260812T170000Z
+DTSTART:20260812T133000Z
+DTEND:20260812T160000Z
 UID:pandascore-1624087@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 4: NIP vs Legacy
-DTSTART:20260812T143000Z
-DTEND:20260812T170000Z
+DTSTART:20260812T133000Z
+DTEND:20260812T160000Z
 UID:pandascore-1624090@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 3: BetBoom Team vs FaZe
-DTSTART:20260812T154000Z
-DTEND:20260812T181000Z
+DTSTART:20260812T150000Z
+DTEND:20260812T173000Z
 UID:pandascore-1624089@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 2: PARIVISION vs B8
-DTSTART:20260812T154000Z
-DTEND:20260812T181000Z
+DTSTART:20260812T150000Z
+DTEND:20260812T173000Z
 UID:pandascore-1624250@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
@@ -1455,32 +1455,32 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO1\nSt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 4: Lynn Vision vs MOUZ
-DTSTART:20260812T191000Z
-DTEND:20260812T214000Z
+DTSTART:20260812T193000Z
+DTEND:20260812T220000Z
 UID:pandascore-1624292@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 3: FUT Esports vs TYLOO
-DTSTART:20260812T121000Z
-DTEND:20260812T144000Z
+DTSTART:20260812T103000Z
+DTEND:20260812T130000Z
 UID:pandascore-1624291@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 2: magic vs TheMongolz
-DTSTART:20260812T132000Z
-DTEND:20260812T155000Z
+DTSTART:20260812T120000Z
+DTEND:20260812T143000Z
 UID:pandascore-1624320@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 1: Natus Vincere vs 3DMAX
-DTSTART:20260812T165000Z
-DTEND:20260812T192000Z
+DTSTART:20260812T163000Z
+DTEND:20260812T190000Z
 UID:pandascore-1624319@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
@@ -1495,8 +1495,8 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO1\nSt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 3: 9z vs paiN
-DTSTART:20260812T191000Z
-DTEND:20260812T214000Z
+DTSTART:20260812T193000Z
+DTEND:20260812T220000Z
 UID:pandascore-1624321@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO1\nSt
  ream: https://twitch.tv/ewc_plus_en
