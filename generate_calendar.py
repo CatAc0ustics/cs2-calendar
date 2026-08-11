@@ -8,7 +8,7 @@ URL = "https://api.pandascore.co/csgo/matches/upcoming"
 
 ALLOWED_ORGANIZERS = [
     'esl', 'blast', 'pgl', 'iem', 'intel extreme masters', 
-    'dreamhack', 'major', 'ewc', 'road to ewc', 'esports world cup'
+    'major', 'ewc', 'road to ewc', 'esports world cup'
 ]
 
 headers = {
@@ -65,9 +65,9 @@ for match in all_matches:
         continue
         
     stage_name = match.get('tournament', {}).get('name', 'Unknown Stage')
-    
     full_info = f"{tournament_name} {stage_name} {match_name}".lower()
-    if "challenger league" in full_info or "challengers league" in full_info or ("blast open" in full_info and "playoff" in full_info):
+
+    if any(excluded in full_info for excluded in ["dreamhack", "starladder", "challenger league", "challengers league"]) or ("blast open" in full_info and "playoff" in full_info):
         continue
 
     num_games = match.get('number_of_games')
@@ -78,8 +78,17 @@ for match in all_matches:
     event.add('dtstart', datetime.fromisoformat(match['begin_at'].replace('Z', '+00:00')))
     event.add('dtend', datetime.fromisoformat(match['begin_at'].replace('Z', '+00:00')) + timedelta(hours=2, minutes=30))
     
-    stream_list = match.get('streams_list', [])
-    stream_url = stream_list[0].get('raw_url') if stream_list else "No stream available"
+    if "blast" in full_info:
+        stream_url = "https://twitch.tv/blastpremier"
+    elif any(k in full_info for k in ["esl", "iem", "intel extreme masters"]):
+        stream_url = "https://twitch.tv/eslcs"
+    elif "pgl" in full_info:
+        stream_url = "https://twitch.tv/pgl"
+    elif any(k in full_info for k in ["ewc", "esports world cup", "road to ewc"]):
+        stream_url = "https://twitch.tv/ewc_plus_en"
+    else:
+        stream_list = match.get('streams_list', [])
+        stream_url = stream_list[0].get('raw_url') if stream_list else "No stream available"
     
     event.add('description', f"Tournament: {tournament_name}\nStage: {stage_name}\nFormat: {match_format}\nStream: {stream_url}")
     uid = f"pandascore-{match.get('id')}@cs2"
