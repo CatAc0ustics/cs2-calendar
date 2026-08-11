@@ -1379,7 +1379,7 @@ DTSTART:20260812T110000Z
 DTEND:20260812T133000Z
 UID:pandascore-1624078@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 1: Spirit vs JiJieHao
@@ -1387,7 +1387,7 @@ DTSTART:20260812T121000Z
 DTEND:20260812T144000Z
 UID:pandascore-1624077@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 4: BIG vs Aurora Gaming
@@ -1395,7 +1395,7 @@ DTSTART:20260812T110000Z
 DTEND:20260812T133000Z
 UID:pandascore-1624080@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 3: G2 vs M80
@@ -1403,7 +1403,7 @@ DTSTART:20260812T132000Z
 DTEND:20260812T155000Z
 UID:pandascore-1624079@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 2: MIBR vs Astralis
@@ -1411,7 +1411,7 @@ DTSTART:20260812T165000Z
 DTEND:20260812T192000Z
 UID:pandascore-1624088@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 1: Team Falcons vs K27
@@ -1419,7 +1419,7 @@ DTSTART:20260812T143000Z
 DTEND:20260812T170000Z
 UID:pandascore-1624087@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 4: NIP vs Legacy
@@ -1427,7 +1427,7 @@ DTSTART:20260812T143000Z
 DTEND:20260812T170000Z
 UID:pandascore-1624090@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 3: BetBoom Team vs FaZe
@@ -1435,7 +1435,7 @@ DTSTART:20260812T154000Z
 DTEND:20260812T181000Z
 UID:pandascore-1624089@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 2: PARIVISION vs B8
@@ -1443,7 +1443,7 @@ DTSTART:20260812T154000Z
 DTEND:20260812T181000Z
 UID:pandascore-1624250@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 1: Vitality vs 100 Thieves
@@ -1451,7 +1451,7 @@ DTSTART:20260812T180000Z
 DTEND:20260812T203000Z
 UID:pandascore-1624231@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 4: Lynn Vision vs MOUZ
@@ -1459,7 +1459,7 @@ DTSTART:20260812T191000Z
 DTEND:20260812T214000Z
 UID:pandascore-1624292@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 3: FUT Esports vs TYLOO
@@ -1467,7 +1467,7 @@ DTSTART:20260812T121000Z
 DTEND:20260812T144000Z
 UID:pandascore-1624291@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 2: magic vs TheMongolz
@@ -1475,7 +1475,7 @@ DTSTART:20260812T132000Z
 DTEND:20260812T155000Z
 UID:pandascore-1624320@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 1: Natus Vincere vs 3DMAX
@@ -1483,7 +1483,7 @@ DTSTART:20260812T165000Z
 DTEND:20260812T192000Z
 UID:pandascore-1624319@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 4: Wildcard vs FURIA
@@ -1491,7 +1491,7 @@ DTSTART:20260812T180000Z
 DTEND:20260812T203000Z
 UID:pandascore-1624322@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 3: 9z vs paiN
@@ -1499,7 +1499,7 @@ DTSTART:20260812T191000Z
 DTEND:20260812T214000Z
 UID:pandascore-1624321@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO1\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 2: TBD vs TBD
@@ -1507,7 +1507,7 @@ DTSTART:20260813T110000Z
 DTEND:20260813T133000Z
 UID:pandascore-1624082@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 1: TBD vs TBD
@@ -1515,7 +1515,7 @@ DTSTART:20260813T110000Z
 DTEND:20260813T133000Z
 UID:pandascore-1624081@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
@@ -1523,7 +1523,7 @@ DTSTART:20260813T140000Z
 DTEND:20260813T163000Z
 UID:pandascore-1624084@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
@@ -1531,7 +1531,7 @@ DTSTART:20260813T140000Z
 DTEND:20260813T163000Z
 UID:pandascore-1624083@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 2: TBD vs TBD
@@ -1539,7 +1539,7 @@ DTSTART:20260813T170000Z
 DTEND:20260813T193000Z
 UID:pandascore-1624092@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 1: TBD vs TBD
@@ -1547,7 +1547,7 @@ DTSTART:20260813T170000Z
 DTEND:20260813T193000Z
 UID:pandascore-1624091@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
@@ -1555,7 +1555,7 @@ DTSTART:20260814T110000Z
 DTEND:20260814T133000Z
 UID:pandascore-1624126@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
@@ -1563,7 +1563,7 @@ DTSTART:20260814T110000Z
 DTEND:20260814T133000Z
 UID:pandascore-1624109@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 2: TBD vs TBD
@@ -1571,7 +1571,7 @@ DTSTART:20260814T140000Z
 DTEND:20260814T163000Z
 UID:pandascore-1624294@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 1: TBD vs TBD
@@ -1579,7 +1579,7 @@ DTSTART:20260814T140000Z
 DTEND:20260814T163000Z
 UID:pandascore-1624293@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
@@ -1587,7 +1587,7 @@ DTSTART:20260814T170000Z
 DTEND:20260814T193000Z
 UID:pandascore-1624316@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
@@ -1595,7 +1595,7 @@ DTSTART:20260814T170000Z
 DTEND:20260814T193000Z
 UID:pandascore-1624295@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 2: TBD vs TBD
@@ -1603,7 +1603,7 @@ DTSTART:20260815T110000Z
 DTEND:20260815T133000Z
 UID:pandascore-1624324@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 1: TBD vs TBD
@@ -1611,7 +1611,7 @@ DTSTART:20260815T110000Z
 DTEND:20260815T133000Z
 UID:pandascore-1624323@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
@@ -1619,7 +1619,7 @@ DTSTART:20260815T140000Z
 DTEND:20260815T163000Z
 UID:pandascore-1624326@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
@@ -1627,7 +1627,7 @@ DTSTART:20260815T140000Z
 DTEND:20260815T163000Z
 UID:pandascore-1624325@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket semifinal 2: TBD vs TBD
@@ -1635,7 +1635,7 @@ DTSTART:20260815T170000Z
 DTEND:20260815T193000Z
 UID:pandascore-1624086@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket semifinal 1: TBD vs TBD
@@ -1643,7 +1643,7 @@ DTSTART:20260815T170000Z
 DTEND:20260815T193000Z
 UID:pandascore-1624085@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket semifinal 2: TBD vs TBD
@@ -1651,7 +1651,7 @@ DTSTART:20260816T110000Z
 DTEND:20260816T133000Z
 UID:pandascore-1624163@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket semifinal 1: TBD vs TBD
@@ -1659,7 +1659,7 @@ DTSTART:20260816T110000Z
 DTEND:20260816T133000Z
 UID:pandascore-1624147@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket semifinal 2: TBD vs TBD
@@ -1667,7 +1667,7 @@ DTSTART:20260816T140000Z
 DTEND:20260816T163000Z
 UID:pandascore-1624318@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket semifinal 1: TBD vs TBD
@@ -1675,7 +1675,7 @@ DTSTART:20260816T140000Z
 DTEND:20260816T163000Z
 UID:pandascore-1624317@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket semifinal 2: TBD vs TBD
@@ -1683,7 +1683,7 @@ DTSTART:20260816T170000Z
 DTEND:20260816T193000Z
 UID:pandascore-1624328@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket semifinal 1: TBD vs TBD
@@ -1691,7 +1691,7 @@ DTSTART:20260816T170000Z
 DTEND:20260816T193000Z
 UID:pandascore-1624327@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
- ream: https://www.twitch.tv/ewc_stcarena_en
+ ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 2: TBD vs TBD
@@ -1699,7 +1699,7 @@ DTSTART:20260819T140000Z
 DTEND:20260819T163000Z
 UID:pandascore-1624398@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 1: TBD vs TBD
@@ -1707,7 +1707,7 @@ DTSTART:20260819T140000Z
 DTEND:20260819T163000Z
 UID:pandascore-1624397@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 4: TBD vs TBD
@@ -1715,7 +1715,7 @@ DTSTART:20260819T170000Z
 DTEND:20260819T193000Z
 UID:pandascore-1624400@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 3: TBD vs TBD
@@ -1723,7 +1723,7 @@ DTSTART:20260819T170000Z
 DTEND:20260819T193000Z
 UID:pandascore-1624399@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 6: TBD vs TBD
@@ -1731,7 +1731,7 @@ DTSTART:20260820T110000Z
 DTEND:20260820T133000Z
 UID:pandascore-1624402@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 5: TBD vs TBD
@@ -1739,7 +1739,7 @@ DTSTART:20260820T110000Z
 DTEND:20260820T133000Z
 UID:pandascore-1624401@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 8: TBD vs TBD
@@ -1747,7 +1747,7 @@ DTSTART:20260820T140000Z
 DTEND:20260820T163000Z
 UID:pandascore-1624404@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 7: TBD vs TBD
@@ -1755,7 +1755,7 @@ DTSTART:20260820T140000Z
 DTEND:20260820T163000Z
 UID:pandascore-1624403@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 1: TBD vs TBD
@@ -1763,7 +1763,7 @@ DTSTART:20260820T170000Z
 DTEND:20260820T193000Z
 UID:pandascore-1624405@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 2: TBD vs TBD
@@ -1771,7 +1771,7 @@ DTSTART:20260821T110000Z
 DTEND:20260821T133000Z
 UID:pandascore-1624406@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 3: TBD vs TBD
@@ -1779,7 +1779,7 @@ DTSTART:20260821T140000Z
 DTEND:20260821T163000Z
 UID:pandascore-1624407@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 4: TBD vs TBD
@@ -1787,7 +1787,7 @@ DTSTART:20260821T170000Z
 DTEND:20260821T193000Z
 UID:pandascore-1624408@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Semifinal 1: TBD vs TBD
@@ -1795,7 +1795,7 @@ DTSTART:20260822T140000Z
 DTEND:20260822T163000Z
 UID:pandascore-1624409@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Semifinal 2: TBD vs TBD
@@ -1803,7 +1803,7 @@ DTSTART:20260822T170000Z
 DTEND:20260822T193000Z
 UID:pandascore-1624410@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Third place match: TBD vs TBD
@@ -1811,7 +1811,7 @@ DTSTART:20260823T080000Z
 DTEND:20260823T103000Z
 UID:pandascore-1624411@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grand final: TBD vs TBD
@@ -1819,6 +1819,6 @@ DTSTART:20260823T113000Z
 DTEND:20260823T140000Z
 UID:pandascore-1624412@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO5\nS
- tream: https://www.twitch.tv/ewc_stcarena_en
+ tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 END:VCALENDAR
