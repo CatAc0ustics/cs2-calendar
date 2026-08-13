@@ -1559,48 +1559,48 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO3\nSt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 1: K27 vs MIBR
-DTSTART:20260814T110000Z
-DTEND:20260814T133000Z
+DTSTART:20260814T165000Z
+DTEND:20260814T192000Z
 UID:pandascore-1624109@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 2: FUT Esports vs MOUZ
-DTSTART:20260814T140000Z
-DTEND:20260814T163000Z
+DTSTART:20260814T135500Z
+DTEND:20260814T162500Z
 UID:pandascore-1624294@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 1: B8 vs Vitality
-DTSTART:20260814T140000Z
-DTEND:20260814T163000Z
+DTSTART:20260814T135500Z
+DTEND:20260814T162500Z
 UID:pandascore-1624293@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 2: TYLOO vs Lynn Vision
-DTSTART:20260814T170000Z
-DTEND:20260814T193000Z
+DTSTART:20260814T110000Z
+DTEND:20260814T133000Z
 UID:pandascore-1624316@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 1: PARIVISION vs 100 Thieves
-DTSTART:20260814T170000Z
-DTEND:20260814T193000Z
+DTSTART:20260814T165000Z
+DTEND:20260814T192000Z
 UID:pandascore-1624295@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 2: FURIA vs 9z
-DTSTART:20260815T110000Z
-DTEND:20260815T133000Z
+DTSTART:20260815T135500Z
+DTEND:20260815T162500Z
 UID:pandascore-1624324@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
@@ -1615,38 +1615,38 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 2: Wildcard vs paiN
-DTSTART:20260815T140000Z
-DTEND:20260815T163000Z
+DTSTART:20260815T110000Z
+DTEND:20260815T133000Z
 UID:pandascore-1624326@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 1: magic vs 3DMAX
-DTSTART:20260815T140000Z
-DTEND:20260815T163000Z
+DTSTART:20260815T135500Z
+DTEND:20260815T162500Z
 UID:pandascore-1624325@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket semifinal 2: JiJieHao vs Aurora Gaming
-DTSTART:20260815T170000Z
-DTEND:20260815T193000Z
+DTSTART:20260815T165000Z
+DTEND:20260815T192000Z
 UID:pandascore-1624086@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket semifinal 1: BIG vs Spirit
-DTSTART:20260815T170000Z
-DTEND:20260815T193000Z
+DTSTART:20260815T165000Z
+DTEND:20260815T192000Z
 UID:pandascore-1624085@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: Astralis vs TBD
 DTSTART:20260816T110000Z
 DTEND:20260816T133000Z
 UID:pandascore-1624163@cs2
@@ -1654,7 +1654,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Group B\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+SUMMARY:Lower bracket semifinal 1: Legacy vs TBD
 DTSTART:20260816T110000Z
 DTEND:20260816T133000Z
 UID:pandascore-1624147@cs2
