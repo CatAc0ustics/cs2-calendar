@@ -1503,8 +1503,8 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO1\nSt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 2: BIG vs G2
-DTSTART:20260813T110000Z
-DTEND:20260813T133000Z
+DTSTART:20260813T140000Z
+DTEND:20260813T163000Z
 UID:pandascore-1624082@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
@@ -1527,8 +1527,8 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO3\nSt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket quarterfinal 1: Luminosity vs Spirit
-DTSTART:20260813T140000Z
-DTEND:20260813T163000Z
+DTSTART:20260813T110000Z
+DTEND:20260813T133000Z
 UID:pandascore-1624083@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
