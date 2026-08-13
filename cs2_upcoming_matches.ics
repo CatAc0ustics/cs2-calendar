@@ -1630,7 +1630,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal 2: JiJieHao vs TBD
+SUMMARY:Lower bracket semifinal 2: JiJieHao vs Aurora Gaming
 DTSTART:20260815T170000Z
 DTEND:20260815T193000Z
 UID:pandascore-1624086@cs2
@@ -1638,7 +1638,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Group A\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+SUMMARY:Lower bracket semifinal 1: BIG vs Spirit
 DTSTART:20260815T170000Z
 DTEND:20260815T193000Z
 UID:pandascore-1624085@cs2
