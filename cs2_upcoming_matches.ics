@@ -1678,7 +1678,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Group C\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: TheMongolz vs paiN
 DTSTART:20260816T170000Z
 DTEND:20260816T193000Z
 UID:pandascore-1624328@cs2
@@ -1686,7 +1686,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+SUMMARY:Lower bracket semifinal 1: magic vs TBD
 DTSTART:20260816T170000Z
 DTEND:20260816T193000Z
 UID:pandascore-1624327@cs2
