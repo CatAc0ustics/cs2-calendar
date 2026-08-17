@@ -1821,4 +1821,196 @@ UID:pandascore-1624412@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO5\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 1: Aurora Gaming vs G2
+DTSTART:20260826T090000Z
+DTEND:20260826T113000Z
+UID:pandascore-1640187@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 2: Spirit vs DENDELE CS
+DTSTART:20260826T113000Z
+DTEND:20260826T140000Z
+UID:pandascore-1640188@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 3: Natus Vincere vs M80
+DTSTART:20260826T140000Z
+DTEND:20260826T163000Z
+UID:pandascore-1640189@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 4: FURIA vs paiN
+DTSTART:20260826T163000Z
+DTEND:20260826T190000Z
+UID:pandascore-1640190@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 1: Vitality vs Inner Circle Esports
+DTSTART:20260827T090000Z
+DTEND:20260827T113000Z
+UID:pandascore-1640199@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 2: MOUZ vs 9z
+DTSTART:20260827T113000Z
+DTEND:20260827T140000Z
+UID:pandascore-1640200@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 3: Legacy vs FUT Esports
+DTSTART:20260827T140000Z
+DTEND:20260827T163000Z
+UID:pandascore-1640201@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 4: Team Falcons vs Lynn Vision
+DTSTART:20260827T163000Z
+DTEND:20260827T190000Z
+UID:pandascore-1640202@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+DTSTART:20260828T090000Z
+DTEND:20260828T113000Z
+UID:pandascore-1640194@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+DTSTART:20260828T113000Z
+DTEND:20260828T140000Z
+UID:pandascore-1640191@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+DTSTART:20260828T140000Z
+DTEND:20260828T163000Z
+UID:pandascore-1640195@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+DTSTART:20260828T163000Z
+DTEND:20260828T190000Z
+UID:pandascore-1640192@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+DTSTART:20260829T090000Z
+DTEND:20260829T113000Z
+UID:pandascore-1640206@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+DTSTART:20260829T113000Z
+DTEND:20260829T140000Z
+UID:pandascore-1640203@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+DTSTART:20260829T140000Z
+DTEND:20260829T163000Z
+UID:pandascore-1640207@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+DTSTART:20260829T163000Z
+DTEND:20260829T190000Z
+UID:pandascore-1640204@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+DTSTART:20260830T090000Z
+DTEND:20260830T113000Z
+UID:pandascore-1640196@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+DTSTART:20260830T113000Z
+DTEND:20260830T140000Z
+UID:pandascore-1640197@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket final: TBD vs TBD
+DTSTART:20260830T140000Z
+DTEND:20260830T163000Z
+UID:pandascore-1640198@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket final: TBD vs TBD
+DTSTART:20260830T163000Z
+DTEND:20260830T190000Z
+UID:pandascore-1640193@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+DTSTART:20260831T090000Z
+DTEND:20260831T113000Z
+UID:pandascore-1640208@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+DTSTART:20260831T113000Z
+DTEND:20260831T140000Z
+UID:pandascore-1640209@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket final: TBD vs TBD
+DTSTART:20260831T140000Z
+DTEND:20260831T163000Z
+UID:pandascore-1640210@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket final: TBD vs TBD
+DTSTART:20260831T163000Z
+DTEND:20260831T190000Z
+UID:pandascore-1640205@cs2
+DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
+ ttps://twitch.tv/blastpremier
+END:VEVENT
 END:VCALENDAR
