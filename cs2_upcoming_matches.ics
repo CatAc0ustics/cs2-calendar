@@ -1695,8 +1695,8 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 2: FURIA vs Aurora Gaming
-DTSTART:20260819T140000Z
-DTEND:20260819T163000Z
+DTSTART:20260819T170000Z
+DTEND:20260819T193000Z
 UID:pandascore-1624398@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
@@ -1719,8 +1719,8 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round of 16 match 3: FUT Esports vs magic
-DTSTART:20260819T170000Z
-DTEND:20260819T193000Z
+DTSTART:20260819T140000Z
+DTEND:20260819T163000Z
 UID:pandascore-1624399@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
