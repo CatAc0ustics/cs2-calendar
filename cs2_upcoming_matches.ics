@@ -1694,7 +1694,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Group D\nFormat: BO3\nSt
  ream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 2: TBD vs TBD
+SUMMARY:Round of 16 match 2: FURIA vs Aurora Gaming
 DTSTART:20260819T140000Z
 DTEND:20260819T163000Z
 UID:pandascore-1624398@cs2
@@ -1702,7 +1702,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 1: TBD vs TBD
+SUMMARY:Round of 16 match 1: G2 vs Astralis
 DTSTART:20260819T140000Z
 DTEND:20260819T163000Z
 UID:pandascore-1624397@cs2
@@ -1710,7 +1710,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 4: TBD vs TBD
+SUMMARY:Round of 16 match 4: GamerLegion vs MOUZ
 DTSTART:20260819T170000Z
 DTEND:20260819T193000Z
 UID:pandascore-1624400@cs2
@@ -1718,7 +1718,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 3: TBD vs TBD
+SUMMARY:Round of 16 match 3: FUT Esports vs magic
 DTSTART:20260819T170000Z
 DTEND:20260819T193000Z
 UID:pandascore-1624399@cs2
@@ -1726,7 +1726,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 6: TBD vs TBD
+SUMMARY:Round of 16 match 6: Team Falcons vs TheMongolz
 DTSTART:20260820T110000Z
 DTEND:20260820T133000Z
 UID:pandascore-1624402@cs2
@@ -1734,7 +1734,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 5: TBD vs TBD
+SUMMARY:Round of 16 match 5: Natus Vincere vs Legacy
 DTSTART:20260820T110000Z
 DTEND:20260820T133000Z
 UID:pandascore-1624401@cs2
@@ -1742,7 +1742,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 8: TBD vs TBD
+SUMMARY:Round of 16 match 8: B8 vs Spirit
 DTSTART:20260820T140000Z
 DTEND:20260820T163000Z
 UID:pandascore-1624404@cs2
@@ -1750,7 +1750,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 7: TBD vs TBD
+SUMMARY:Round of 16 match 7: FaZe vs Vitality
 DTSTART:20260820T140000Z
 DTEND:20260820T163000Z
 UID:pandascore-1624403@cs2
