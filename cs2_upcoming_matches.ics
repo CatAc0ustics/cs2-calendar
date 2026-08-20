@@ -1774,7 +1774,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: Team Falcons vs Legacy
 DTSTART:20260821T140000Z
 DTEND:20260821T163000Z
 UID:pandascore-1624407@cs2
