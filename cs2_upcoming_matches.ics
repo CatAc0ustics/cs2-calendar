@@ -1790,7 +1790,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: FURIA vs TBD
 DTSTART:20260822T140000Z
 DTEND:20260822T163000Z
 UID:pandascore-1624409@cs2
