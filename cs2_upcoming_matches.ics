@@ -1758,7 +1758,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 1: G2 vs TBD
+SUMMARY:Quarterfinal 1: G2 vs FURIA
 DTSTART:20260820T170000Z
 DTEND:20260820T193000Z
 UID:pandascore-1624405@cs2
@@ -1766,7 +1766,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 2: FUT Esports vs TBD
+SUMMARY:Quarterfinal 2: FUT Esports vs MOUZ
 DTSTART:20260821T110000Z
 DTEND:20260821T133000Z
 UID:pandascore-1624406@cs2
