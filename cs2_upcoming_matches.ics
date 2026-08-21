@@ -1798,7 +1798,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 2: Legacy vs TBD
+SUMMARY:Semifinal 2: Legacy vs Spirit
 DTSTART:20260822T170000Z
 DTEND:20260822T193000Z
 UID:pandascore-1624410@cs2
