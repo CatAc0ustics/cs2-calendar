@@ -1783,14 +1783,14 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarterfinal 4: Vitality vs Spirit
-DTSTART:20260821T170000Z
-DTEND:20260821T193000Z
+DTSTART:20260821T163000Z
+DTEND:20260821T190000Z
 UID:pandascore-1624408@cs2
 DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 1: FURIA vs TBD
+SUMMARY:Semifinal 1: FURIA vs FUT Esports
 DTSTART:20260822T140000Z
 DTEND:20260822T163000Z
 UID:pandascore-1624409@cs2
@@ -1798,7 +1798,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: Legacy vs TBD
 DTSTART:20260822T170000Z
 DTEND:20260822T193000Z
 UID:pandascore-1624410@cs2
