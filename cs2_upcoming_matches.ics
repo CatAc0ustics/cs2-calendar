@@ -1806,7 +1806,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Third place match: TBD vs TBD
+SUMMARY:Third place match: FURIA vs Legacy
 DTSTART:20260823T080000Z
 DTEND:20260823T103000Z
 UID:pandascore-1624411@cs2
@@ -1814,7 +1814,7 @@ DESCRIPTION:Tournament: Esports World Cup\nStage: Playoffs\nFormat: BO3\nS
  tream: https://twitch.tv/ewc_plus_en
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: FUT Esports vs Spirit
 DTSTART:20260823T113000Z
 DTEND:20260823T140000Z
 UID:pandascore-1624412@cs2
