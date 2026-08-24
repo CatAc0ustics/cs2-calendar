@@ -2278,7 +2278,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 8: TBD vs TBD
+SUMMARY:Round of 16 match 8: Insiders Esport vs Esport Academy Copenhagen
 DTSTART:20260824T160000Z
 DTEND:20260824T183000Z
 UID:pandascore-1649026@cs2
@@ -2286,7 +2286,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO1\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 7: TBD vs TBD
+SUMMARY:Round of 16 match 7: BakS eSports vs Color
 DTSTART:20260824T160000Z
 DTEND:20260824T183000Z
 UID:pandascore-1649025@cs2
@@ -2294,7 +2294,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO1\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 6: TBD vs TBD
+SUMMARY:Round of 16 match 6: Nuclear TigeRES vs Spirit Academy
 DTSTART:20260824T160000Z
 DTEND:20260824T183000Z
 UID:pandascore-1649024@cs2
@@ -2302,7 +2302,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO1\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 5: TBD vs TBD
+SUMMARY:Round of 16 match 5: ECHO vs CYBERSHOKE Esports
 DTSTART:20260824T160000Z
 DTEND:20260824T183000Z
 UID:pandascore-1649023@cs2
@@ -2310,7 +2310,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO1\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 4: TBD vs TBD
+SUMMARY:Round of 16 match 4: QUAZAR vs Nemiga
 DTSTART:20260824T160000Z
 DTEND:20260824T183000Z
 UID:pandascore-1649022@cs2
@@ -2318,7 +2318,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO1\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 3: TBD vs TBD
+SUMMARY:Round of 16 match 3: Acend vs Phantom
 DTSTART:20260824T160000Z
 DTEND:20260824T183000Z
 UID:pandascore-1649021@cs2
@@ -2326,7 +2326,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO1\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 2: TBD vs TBD
+SUMMARY:Round of 16 match 2: Eternal Fire vs ex-RUBY
 DTSTART:20260824T160000Z
 DTEND:20260824T183000Z
 UID:pandascore-1649020@cs2
@@ -2334,7 +2334,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO1\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round of 16 match 1: TBD vs TBD
+SUMMARY:Round of 16 match 1: 100 Thieves vs INOX Division
 DTSTART:20260824T160000Z
 DTEND:20260824T183000Z
 UID:pandascore-1649019@cs2
