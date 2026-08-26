@@ -1847,8 +1847,8 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket quarterfinal 4: FURIA vs paiN
-DTSTART:20260826T163000Z
-DTEND:20260826T190000Z
+DTSTART:20260826T173000Z
+DTEND:20260826T200000Z
 UID:pandascore-1640190@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
@@ -1886,7 +1886,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket quarterfinal 1: Aurora Gaming vs TBD
+SUMMARY:Lower bracket quarterfinal 1: Aurora Gaming vs DENDELE CS
 DTSTART:20260828T090000Z
 DTEND:20260828T113000Z
 UID:pandascore-1640194@cs2
@@ -1894,7 +1894,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper bracket semifinal 1: G2 vs TBD
+SUMMARY:Upper bracket semifinal 1: G2 vs Spirit
 DTSTART:20260828T113000Z
 DTEND:20260828T140000Z
 UID:pandascore-1640191@cs2
