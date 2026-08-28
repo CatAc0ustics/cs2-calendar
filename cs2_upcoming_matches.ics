@@ -1950,7 +1950,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+SUMMARY:Lower bracket semifinal 1: M80 vs Aurora Gaming
 DTSTART:20260830T090000Z
 DTEND:20260830T113000Z
 UID:pandascore-1640196@cs2
@@ -1958,7 +1958,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: G2 vs Natus Vincere
 DTSTART:20260830T113000Z
 DTEND:20260830T140000Z
 UID:pandascore-1640197@cs2
@@ -1974,7 +1974,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: Spirit vs FURIA
 DTSTART:20260830T163000Z
 DTEND:20260830T190000Z
 UID:pandascore-1640193@cs2
