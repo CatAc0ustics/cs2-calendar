@@ -1934,7 +1934,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket quarterfinal 2: FUT Esports vs TBD
+SUMMARY:Lower bracket quarterfinal 2: FUT Esports vs Lynn Vision
 DTSTART:20260829T140000Z
 DTEND:20260829T163000Z
 UID:pandascore-1640207@cs2
@@ -1942,7 +1942,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper bracket semifinal 2: Legacy vs TBD
+SUMMARY:Upper bracket semifinal 2: Legacy vs Team Falcons
 DTSTART:20260829T163000Z
 DTEND:20260829T190000Z
 UID:pandascore-1640204@cs2
