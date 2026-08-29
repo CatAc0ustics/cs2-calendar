@@ -1943,8 +1943,8 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 2: Legacy vs Team Falcons
-DTSTART:20260829T163000Z
-DTEND:20260829T190000Z
+DTSTART:20260829T164500Z
+DTEND:20260829T191500Z
 UID:pandascore-1640204@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
@@ -1990,7 +1990,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: Inner Circle Esports vs FUT Esports
 DTSTART:20260830T163000Z
 DTEND:20260830T190000Z
 UID:pandascore-1640209@cs2
@@ -2006,7 +2006,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: MOUZ vs TBD
 DTSTART:20260831T140000Z
 DTEND:20260831T163000Z
 UID:pandascore-1640205@cs2
