@@ -1951,16 +1951,16 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket semifinal 1: M80 vs Aurora Gaming
-DTSTART:20260830T090000Z
-DTEND:20260830T113000Z
+DTSTART:20260830T113000Z
+DTEND:20260830T140000Z
 UID:pandascore-1640196@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket semifinal 2: G2 vs Natus Vincere
-DTSTART:20260830T113000Z
-DTEND:20260830T140000Z
+DTSTART:20260830T090000Z
+DTEND:20260830T113000Z
 UID:pandascore-1640197@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
@@ -1982,17 +1982,17 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal 1: Vitality vs TBD
-DTSTART:20260830T140000Z
-DTEND:20260830T163000Z
+SUMMARY:Lower bracket semifinal 1: Vitality vs Legacy
+DTSTART:20260830T163000Z
+DTEND:20260830T190000Z
 UID:pandascore-1640208@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower bracket semifinal 2: Inner Circle Esports vs FUT Esports
-DTSTART:20260830T163000Z
-DTEND:20260830T190000Z
+DTSTART:20260830T140000Z
+DTEND:20260830T163000Z
 UID:pandascore-1640209@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
@@ -2006,7 +2006,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper bracket final: MOUZ vs TBD
+SUMMARY:Upper bracket final: MOUZ vs Team Falcons
 DTSTART:20260831T140000Z
 DTEND:20260831T163000Z
 UID:pandascore-1640205@cs2
