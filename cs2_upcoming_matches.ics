@@ -1927,8 +1927,8 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper bracket semifinal 1: Inner Circle Esports vs MOUZ
-DTSTART:20260829T113000Z
-DTEND:20260829T140000Z
+DTSTART:20260829T111000Z
+DTEND:20260829T134000Z
 UID:pandascore-1640203@cs2
 DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
@@ -1982,7 +1982,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+SUMMARY:Lower bracket semifinal 1: Vitality vs TBD
 DTSTART:20260830T140000Z
 DTEND:20260830T163000Z
 UID:pandascore-1640208@cs2
@@ -2370,6 +2370,118 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 DTSTART:20260824T171500Z
 DTEND:20260824T194500Z
 UID:pandascore-1649027@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 4: Rare Atom vs Lynn Vision
+DTSTART:20260902T060000Z
+DTEND:20260902T083000Z
+UID:pandascore-1658086@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 3: FlyQuest vs NEXVOID
+DTSTART:20260902T060000Z
+DTEND:20260902T083000Z
+UID:pandascore-1658085@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 2: The Huns Esports vs DEPO
+DTSTART:20260902T060000Z
+DTEND:20260902T083000Z
+UID:pandascore-1658080@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket quarterfinal 1: TYLOO vs Kaleido Gaming
+DTSTART:20260902T060000Z
+DTEND:20260902T083000Z
+UID:pandascore-1658079@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+DTSTART:20260902T090000Z
+DTEND:20260902T113000Z
+UID:pandascore-1658103@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+DTSTART:20260902T090000Z
+DTEND:20260902T113000Z
+UID:pandascore-1658102@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+DTSTART:20260902T120000Z
+DTEND:20260902T143000Z
+UID:pandascore-1658091@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+DTSTART:20260902T120000Z
+DTEND:20260902T143000Z
+UID:pandascore-1658087@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+DTSTART:20260903T060000Z
+DTEND:20260903T083000Z
+UID:pandascore-1658101@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+DTSTART:20260903T060000Z
+DTEND:20260903T083000Z
+UID:pandascore-1658100@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+DTSTART:20260903T090000Z
+DTEND:20260903T113000Z
+UID:pandascore-1658099@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper bracket final: TBD vs TBD
+DTSTART:20260903T090000Z
+DTEND:20260903T113000Z
+UID:pandascore-1658092@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower bracket final: TBD vs TBD
+DTSTART:20260903T120000Z
+DTEND:20260903T143000Z
+UID:pandascore-1658098@cs2
+DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
+ /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand final: TBD vs TBD
+DTSTART:20260904T120000Z
+DTEND:20260904T143000Z
+UID:pandascore-1658094@cs2
 DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
