@@ -1998,7 +1998,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group B\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: FUT Esports vs Vitality
 DTSTART:20260831T163000Z
 DTEND:20260831T190000Z
 UID:pandascore-1640210@cs2
