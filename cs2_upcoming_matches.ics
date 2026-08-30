@@ -1966,7 +1966,7 @@ DESCRIPTION:Tournament: BLAST Open\nStage: Group A\nFormat: BO3\nStream: h
  ttps://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: G2 vs Aurora Gaming
 DTSTART:20260831T113000Z
 DTEND:20260831T140000Z
 UID:pandascore-1640198@cs2
