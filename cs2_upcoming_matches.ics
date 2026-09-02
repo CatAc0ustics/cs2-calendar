@@ -2406,7 +2406,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: Lynn Vision vs TBD
 DTSTART:20260902T090000Z
 DTEND:20260902T113000Z
 UID:pandascore-1658103@cs2
@@ -2414,7 +2414,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: Kaleido Gaming vs The Huns Esports
 DTSTART:20260902T090000Z
 DTEND:20260902T113000Z
 UID:pandascore-1658102@cs2
@@ -2422,7 +2422,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: Rare Atom vs TBD
 DTSTART:20260902T120000Z
 DTEND:20260902T143000Z
 UID:pandascore-1658091@cs2
@@ -2430,7 +2430,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: TYLOO vs DEPO
 DTSTART:20260902T120000Z
 DTEND:20260902T143000Z
 UID:pandascore-1658087@cs2
