@@ -2222,7 +2222,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal: Heroic vs TBD
+SUMMARY:Lower bracket semifinal: Heroic vs Eternal Fire
 DTSTART:20260904T150000Z
 DTEND:20260904T173000Z
 UID:pandascore-1643656@cs2
@@ -2484,5 +2484,117 @@ DTEND:20260904T143000Z
 UID:pandascore-1658094@cs2
 DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 16 match 8: fnatic vs ASTRAL
+DTSTART:20260904T140000Z
+DTEND:20260904T163000Z
+UID:pandascore-1669800@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO1\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 16 match 7: Nemiga vs Betclic Apogee Esports
+DTSTART:20260904T140000Z
+DTEND:20260904T163000Z
+UID:pandascore-1669799@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO1\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 16 match 6: Desemprego vs Brute
+DTSTART:20260904T140000Z
+DTEND:20260904T163000Z
+UID:pandascore-1669798@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO1\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 16 match 5: 1WIN vs Bushido Wildcats
+DTSTART:20260904T140000Z
+DTEND:20260904T163000Z
+UID:pandascore-1669797@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO1\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 16 match 4: JiJieHao vs BET-M 33
+DTSTART:20260904T140000Z
+DTEND:20260904T163000Z
+UID:pandascore-1669796@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO1\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 16 match 3: Nice Try vs Nordic Partners Gaming 
+DTSTART:20260904T140000Z
+DTEND:20260904T163000Z
+UID:pandascore-1669795@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO1\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 16 match 2: GenOne vs BC.Game Esports
+DTSTART:20260904T140000Z
+DTEND:20260904T163000Z
+UID:pandascore-1669794@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO1\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 16 match 1: FOKUS vs aimclub
+DTSTART:20260904T140000Z
+DTEND:20260904T163000Z
+UID:pandascore-1669793@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO1\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 4: TBD vs TBD
+DTSTART:20260904T151500Z
+DTEND:20260904T174500Z
+UID:pandascore-1669806@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 3: TBD vs TBD
+DTSTART:20260904T151500Z
+DTEND:20260904T174500Z
+UID:pandascore-1669805@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 2: TBD vs TBD
+DTSTART:20260904T151500Z
+DTEND:20260904T174500Z
+UID:pandascore-1669804@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 1: TBD vs TBD
+DTSTART:20260904T151500Z
+DTEND:20260904T174500Z
+UID:pandascore-1669803@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 2: TBD vs TBD
+DTSTART:20260904T180000Z
+DTEND:20260904T203000Z
+UID:pandascore-1669808@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 1: TBD vs TBD
+DTSTART:20260904T180000Z
+DTEND:20260904T203000Z
+UID:pandascore-1669807@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
 END:VEVENT
 END:VCALENDAR
