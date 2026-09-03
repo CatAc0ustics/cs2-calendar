@@ -2454,7 +2454,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: FlyQuest vs TBD
 DTSTART:20260903T090000Z
 DTEND:20260903T113000Z
 UID:pandascore-1658099@cs2
