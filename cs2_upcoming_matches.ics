@@ -2222,7 +2222,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: Heroic vs TBD
 DTSTART:20260904T150000Z
 DTEND:20260904T173000Z
 UID:pandascore-1643656@cs2
@@ -2230,7 +2230,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: B8 vs Nuclear TigeRES
 DTSTART:20260904T150000Z
 DTEND:20260904T173000Z
 UID:pandascore-1643643@cs2
@@ -2478,7 +2478,7 @@ DESCRIPTION:Tournament: IEM\nStage: Playoffs\nFormat: BO3\nStream: https:/
  /twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand final: TYLOO vs TBD
+SUMMARY:Grand final: TYLOO vs FlyQuest
 DTSTART:20260904T120000Z
 DTEND:20260904T143000Z
 UID:pandascore-1658094@cs2
