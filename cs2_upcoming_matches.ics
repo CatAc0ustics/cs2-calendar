@@ -2582,17 +2582,17 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 2: TBD vs TBD
-DTSTART:20260904T180000Z
-DTEND:20260904T203000Z
+SUMMARY:Semifinal 2: Nemiga vs Brute
+DTSTART:20260904T190500Z
+DTEND:20260904T213500Z
 UID:pandascore-1669808@cs2
 DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 1: TBD vs TBD
-DTSTART:20260904T180000Z
-DTEND:20260904T203000Z
+SUMMARY:Semifinal 1: BET-M 33 vs TBD
+DTSTART:20260904T184500Z
+DTEND:20260904T211500Z
 UID:pandascore-1669807@cs2
 DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
