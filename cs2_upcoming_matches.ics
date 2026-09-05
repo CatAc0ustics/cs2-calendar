@@ -2678,7 +2678,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: EMPIRE vs Without a Roof
 DTSTART:20260905T033000Z
 DTEND:20260905T060000Z
 UID:pandascore-1670359@cs2
@@ -2686,7 +2686,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: Marsborne vs TBD
 DTSTART:20260905T033000Z
 DTEND:20260905T060000Z
 UID:pandascore-1670358@cs2
