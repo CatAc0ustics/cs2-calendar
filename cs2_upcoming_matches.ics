@@ -2805,4 +2805,100 @@ UID:pandascore-1673450@cs2
 DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 4: Yawara Esports vs Turma do Pagode
+DTSTART:20260906T220000Z
+DTEND:20260907T003000Z
+UID:pandascore-1673556@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 3: Isurus vs wachoskys
+DTSTART:20260906T220000Z
+DTEND:20260907T003000Z
+UID:pandascore-1673555@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 2: Back to Back  vs METANOIA WOLVES
+DTSTART:20260906T220000Z
+DTEND:20260907T003000Z
+UID:pandascore-1673554@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 1: Bounty Hunters Esports vs RED Canids Academy
+DTSTART:20260906T220000Z
+DTEND:20260907T003000Z
+UID:pandascore-1673553@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 4: TBD vs TBD
+DTSTART:20260907T010000Z
+DTEND:20260907T033000Z
+UID:pandascore-1673562@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 3: TBD vs TBD
+DTSTART:20260907T010000Z
+DTEND:20260907T033000Z
+UID:pandascore-1673561@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 2: TBD vs TBD
+DTSTART:20260907T010000Z
+DTEND:20260907T033000Z
+UID:pandascore-1673560@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterfinal 1: TBD vs TBD
+DTSTART:20260907T010000Z
+DTEND:20260907T033000Z
+UID:pandascore-1673559@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 2: TBD vs TBD
+DTSTART:20260907T010000Z
+DTEND:20260907T033000Z
+UID:pandascore-1673558@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 1: TBD vs TBD
+DTSTART:20260907T010000Z
+DTEND:20260907T033000Z
+UID:pandascore-1673557@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 2: TBD vs TBD
+DTSTART:20260907T040000Z
+DTEND:20260907T063000Z
+UID:pandascore-1673564@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semifinal 1: TBD vs TBD
+DTSTART:20260907T040000Z
+DTEND:20260907T063000Z
+UID:pandascore-1673563@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
 END:VCALENDAR
