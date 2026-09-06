@@ -2766,7 +2766,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: K27 vs TBD
 DTSTART:20260906T150000Z
 DTEND:20260906T173000Z
 UID:pandascore-1673448@cs2
@@ -2774,7 +2774,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: 1WIN vs TBD
 DTSTART:20260906T150000Z
 DTEND:20260906T173000Z
 UID:pandascore-1673447@cs2
@@ -2782,7 +2782,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: Heroic vs TBD
 DTSTART:20260906T150000Z
 DTEND:20260906T173000Z
 UID:pandascore-1673446@cs2
