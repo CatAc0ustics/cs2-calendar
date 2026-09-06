@@ -2838,7 +2838,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: Unreal Nightmare  vs antivalue
 DTSTART:20260907T010000Z
 DTEND:20260907T033000Z
 UID:pandascore-1673562@cs2
@@ -2846,7 +2846,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: Zomblers vs Celestial
 DTSTART:20260907T010000Z
 DTEND:20260907T033000Z
 UID:pandascore-1673561@cs2
@@ -2854,7 +2854,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: Kodex Esports vs Babag
 DTSTART:20260907T010000Z
 DTEND:20260907T033000Z
 UID:pandascore-1673560@cs2
@@ -2862,7 +2862,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: Villainous vs Axial
 DTSTART:20260907T010000Z
 DTEND:20260907T033000Z
 UID:pandascore-1673559@cs2
