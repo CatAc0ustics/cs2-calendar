@@ -3221,4 +3221,116 @@ UID:pandascore-1676467@cs2
 DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO5\nStream:
   https://twitch.tv/pgl
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 3: ShindeN vs Fluxo W7M
+DTSTART:20260909T140000Z
+DTEND:20260909T163000Z
+UID:pandascore-1677303@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinals 4: Turma do Pagode vs DENDELE CS
+DTSTART:20260909T170000Z
+DTEND:20260909T193000Z
+UID:pandascore-1677304@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 2: Imperial vs Galorys
+DTSTART:20260909T200000Z
+DTEND:20260909T223000Z
+UID:pandascore-1677302@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 1: paiN vs Back to Back 
+DTSTART:20260909T230000Z
+DTEND:20260910T013000Z
+UID:pandascore-1677301@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Round 1 match 2: TBD vs TBD
+DTSTART:20260910T140000Z
+DTEND:20260910T163000Z
+UID:pandascore-1677309@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Round 1 match 1: TBD vs TBD
+DTSTART:20260910T170000Z
+DTEND:20260910T193000Z
+UID:pandascore-1677308@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Semifinal 2: TBD vs TBD
+DTSTART:20260910T200000Z
+DTEND:20260910T223000Z
+UID:pandascore-1677306@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Semifinal 1: TBD vs TBD
+DTSTART:20260910T230000Z
+DTEND:20260911T013000Z
+UID:pandascore-1677305@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Quarterfinal 1: TBD vs TBD
+DTSTART:20260911T140000Z
+DTEND:20260911T163000Z
+UID:pandascore-1677310@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Quarterfinal 2: TBD vs TBD
+DTSTART:20260911T170000Z
+DTEND:20260911T193000Z
+UID:pandascore-1677311@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Final: TBD vs TBD
+DTSTART:20260911T200000Z
+DTEND:20260911T223000Z
+UID:pandascore-1677307@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Semifinal: TBD vs TBD
+DTSTART:20260911T230000Z
+DTEND:20260912T013000Z
+UID:pandascore-1677312@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Final: TBD vs TBD
+DTSTART:20260912T160000Z
+DTEND:20260912T183000Z
+UID:pandascore-1677313@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Final: TBD vs TBD
+DTSTART:20260912T190000Z
+DTEND:20260912T213000Z
+UID:pandascore-1677314@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO5\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
 END:VCALENDAR
