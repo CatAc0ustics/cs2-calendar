@@ -2886,9 +2886,9 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semifinal 2: TBD vs TBD
-DTSTART:20260907T040000Z
-DTEND:20260907T063000Z
+SUMMARY:Semifinal 2: antivalue vs TBD
+DTSTART:20260907T033000Z
+DTEND:20260907T060000Z
 UID:pandascore-1673564@cs2
 DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
