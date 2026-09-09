@@ -2942,7 +2942,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Semifinal: TBD vs TBD
+SUMMARY:Lower Bracket Semifinal: Devious vs TBD
 DTSTART:20260909T090000Z
 DTEND:20260909T113000Z
 UID:pandascore-1676126@cs2
@@ -2950,7 +2950,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper Bracket Final: TBD vs TBD
+SUMMARY:Upper Bracket Final: FlyQuest vs TBD
 DTSTART:20260909T090000Z
 DTEND:20260909T113000Z
 UID:pandascore-1676125@cs2
@@ -2958,7 +2958,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Semifinal: TBD vs TBD
+SUMMARY:Lower Bracket Semifinal: The Huns Esports vs TBD
 DTSTART:20260909T110000Z
 DTEND:20260909T133000Z
 UID:pandascore-1676090@cs2
@@ -2966,7 +2966,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper Bracket Final: TBD vs TBD
+SUMMARY:Upper Bracket Final: TYLOO vs TBD
 DTSTART:20260909T110000Z
 DTEND:20260909T133000Z
 UID:pandascore-1676089@cs2
