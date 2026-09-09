@@ -3030,7 +3030,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Round 1 match 2: TBD vs TBD
+SUMMARY:Lower Bracket Round 1 match 2: NIP vs Inner Circle Esports
 DTSTART:20260910T110000Z
 DTEND:20260910T133000Z
 UID:pandascore-1676028@cs2
@@ -3054,7 +3054,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper Bracket Semifinal 2: TBD vs TBD
+SUMMARY:Upper Bracket Semifinal 2: Sinners vs Nemiga
 DTSTART:20260910T170000Z
 DTEND:20260910T193000Z
 UID:pandascore-1676025@cs2
@@ -3254,7 +3254,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Round 1 match 2: TBD vs TBD
+SUMMARY:Lower Bracket Round 1 match 2: ShindeN vs TBD
 DTSTART:20260910T140000Z
 DTEND:20260910T163000Z
 UID:pandascore-1677309@cs2
@@ -3270,7 +3270,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper Bracket Semifinal 2: TBD vs TBD
+SUMMARY:Upper Bracket Semifinal 2: Fluxo W7M vs TBD
 DTSTART:20260910T200000Z
 DTEND:20260910T223000Z
 UID:pandascore-1677306@cs2
@@ -3366,7 +3366,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Final : TBD vs TBD
+SUMMARY:Lower Bracket Final : Revenge vs Legion
 DTSTART:20260910T103000Z
 DTEND:20260910T130000Z
 UID:pandascore-1677391@cs2
@@ -3374,7 +3374,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand Final: TBD vs TBD
+SUMMARY:Grand Final: DEPO vs TBD
 DTSTART:20260910T133000Z
 DTEND:20260910T160000Z
 UID:pandascore-1677392@cs2
