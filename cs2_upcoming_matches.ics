@@ -3142,7 +3142,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Round 1 match 2: TBD vs TBD
+SUMMARY:Lower Bracket Round 1 match 2: Chicken Coop Esports vs TBD
 DTSTART:20260910T230000Z
 DTEND:20260911T013000Z
 UID:pandascore-1676462@cs2
@@ -3150,7 +3150,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Round 1 match 1: TBD vs TBD
+SUMMARY:Lower Bracket Round 1 match 1: Villainous vs Without a Roof
 DTSTART:20260910T230000Z
 DTEND:20260911T013000Z
 UID:pandascore-1676461@cs2
@@ -3158,7 +3158,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper Bracket Semifinal 1: TBD vs TBD
+SUMMARY:Upper Bracket Semifinal 1: Voca vs NRG
 DTSTART:20260911T020000Z
 DTEND:20260911T043000Z
 UID:pandascore-1676459@cs2
@@ -3166,7 +3166,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper Bracket Semifinal 2: TBD vs TBD
+SUMMARY:Upper Bracket Semifinal 2: Marsborne vs TBD
 DTSTART:20260911T020000Z
 DTEND:20260911T043000Z
 UID:pandascore-1676458@cs2
@@ -3262,7 +3262,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Round 1 match 1: Galorys vs TBD
+SUMMARY:Lower Bracket Round 1 match 1: Back to Back  vs Galorys
 DTSTART:20260910T170000Z
 DTEND:20260910T193000Z
 UID:pandascore-1677308@cs2
@@ -3278,7 +3278,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper Bracket Semifinal 1: Imperial vs TBD
+SUMMARY:Upper Bracket Semifinal 1: paiN vs Imperial
 DTSTART:20260910T230000Z
 DTEND:20260911T013000Z
 UID:pandascore-1677305@cs2
