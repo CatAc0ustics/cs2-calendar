@@ -3014,7 +3014,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand Final: FlyQuest vs TBD
+SUMMARY:Grand Final: FlyQuest vs Finishers
 DTSTART:20260910T090000Z
 DTEND:20260910T113000Z
 UID:pandascore-1676128@cs2
@@ -3142,7 +3142,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Round 1 match 2: Chicken Coop Esports vs TBD
+SUMMARY:Lower Bracket Round 1 match 2: antivalue vs Chicken Coop Esports
 DTSTART:20260910T230000Z
 DTEND:20260911T013000Z
 UID:pandascore-1676462@cs2
@@ -3166,7 +3166,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper Bracket Semifinal 2: Marsborne vs TBD
+SUMMARY:Upper Bracket Semifinal 2: Liquid vs Marsborne
 DTSTART:20260911T020000Z
 DTEND:20260911T043000Z
 UID:pandascore-1676458@cs2
