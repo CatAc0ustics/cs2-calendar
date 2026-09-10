@@ -3062,7 +3062,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Quarterfinal 1: Nuclear TigeRES vs TBD
+SUMMARY:Lower Bracket Quarterfinal 1: Sinners vs Nuclear TigeRES
 DTSTART:20260911T110000Z
 DTEND:20260911T133000Z
 UID:pandascore-1676029@cs2
@@ -3078,7 +3078,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper Bracket Final: 1WIN vs TBD
+SUMMARY:Upper Bracket Final: 1WIN vs Nemiga
 DTSTART:20260911T140000Z
 DTEND:20260911T163000Z
 UID:pandascore-1676026@cs2
@@ -3286,7 +3286,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Quarterfinal 1: TBD vs TBD
+SUMMARY:Lower Bracket Quarterfinal 1: Back to Back  vs TBD
 DTSTART:20260911T140000Z
 DTEND:20260911T163000Z
 UID:pandascore-1677310@cs2
