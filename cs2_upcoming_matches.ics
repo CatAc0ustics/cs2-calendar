@@ -3174,7 +3174,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Quarterfinal 2: antivalue vs TBD
+SUMMARY:Lower Bracket Quarterfinal 2: antivalue vs Voca
 DTSTART:20260911T230000Z
 DTEND:20260912T013000Z
 UID:pandascore-1676464@cs2
@@ -3182,7 +3182,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Quarterfinal 1: Without a Roof vs TBD
+SUMMARY:Lower Bracket Quarterfinal 1: Without a Roof vs Marsborne
 DTSTART:20260911T230000Z
 DTEND:20260912T013000Z
 UID:pandascore-1676463@cs2
@@ -3198,7 +3198,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper Bracket Final: TBD vs TBD
+SUMMARY:Upper Bracket Final: NRG vs Liquid
 DTSTART:20260912T020000Z
 DTEND:20260912T043000Z
 UID:pandascore-1676460@cs2
