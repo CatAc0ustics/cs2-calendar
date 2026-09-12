@@ -3206,7 +3206,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lower Bracket Final: TBD vs TBD
+SUMMARY:Lower Bracket Final: Liquid vs Voca
 DTSTART:20260912T190000Z
 DTEND:20260912T213000Z
 UID:pandascore-1676466@cs2
@@ -3214,7 +3214,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand Final: TBD vs TBD
+SUMMARY:Grand Final: NRG vs TBD
 DTSTART:20260912T220000Z
 DTEND:20260913T003000Z
 UID:pandascore-1676467@cs2
