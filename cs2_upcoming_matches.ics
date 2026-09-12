@@ -3214,7 +3214,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand Final: NRG vs TBD
+SUMMARY:Grand Final: NRG vs Liquid
 DTSTART:20260912T220000Z
 DTEND:20260913T003000Z
 UID:pandascore-1676467@cs2
