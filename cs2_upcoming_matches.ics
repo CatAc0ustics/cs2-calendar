@@ -3381,4 +3381,20 @@ UID:pandascore-1677392@cs2
 DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
   https://twitch.tv/pgl
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Final: FlyQuest vs DEPO
+DTSTART:20260913T050000Z
+DTEND:20260913T073000Z
+UID:pandascore-1687132@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO3\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand final: TYLOO vs TBD
+DTSTART:20260913T080000Z
+DTEND:20260913T103000Z
+UID:pandascore-1687133@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Playoffs\nFormat: BO5\nStream:
+  https://twitch.tv/pgl
+END:VEVENT
 END:VCALENDAR
