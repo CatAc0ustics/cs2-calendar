@@ -16,7 +16,8 @@ ALLOWED_ORGANIZERS = [
     "major",
     "ewc",
     "road to ewc",
-    "esports world cup"
+    "esports world cup",
+    "thunderpick world championship"
 ]
 
 EXCLUDED_PATTERNS = [
