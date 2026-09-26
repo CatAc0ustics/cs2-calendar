@@ -188,4 +188,84 @@ UID:pandascore-1711437@cs2
 DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 3: TBD vs TBD
+DTSTART:20261005T163000Z
+DTEND:20261005T190000Z
+UID:pandascore-1711436@cs2
+DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
+ tream: https://twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261006T120000Z
+DTEND:20261006T143000Z
+UID:pandascore-1711439@cs2
+DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
+ tream: https://twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261006T120000Z
+DTEND:20261006T143000Z
+UID:pandascore-1711438@cs2
+DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
+ tream: https://twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261006T143000Z
+DTEND:20261006T170000Z
+UID:pandascore-1711462@cs2
+DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
+ tream: https://twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261006T143000Z
+DTEND:20261006T170000Z
+UID:pandascore-1711440@cs2
+DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
+ tream: https://twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261006T170000Z
+DTEND:20261006T193000Z
+UID:pandascore-1711470@cs2
+DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
+ tream: https://twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261006T170000Z
+DTEND:20261006T193000Z
+UID:pandascore-1711469@cs2
+DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
+ tream: https://twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 5: TBD vs TBD
+DTSTART:20261007T120000Z
+DTEND:20261007T143000Z
+UID:pandascore-1711471@cs2
+DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
+ tream: https://twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 5: TBD vs TBD
+DTSTART:20261007T143000Z
+DTEND:20261007T170000Z
+UID:pandascore-1711472@cs2
+DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
+ tream: https://twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 5: TBD vs TBD
+DTSTART:20261007T170000Z
+DTEND:20261007T193000Z
+UID:pandascore-1711473@cs2
+DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
+ tream: https://twitch.tv/eslcs
+END:VEVENT
 END:VCALENDAR
