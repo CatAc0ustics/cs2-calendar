@@ -196,4 +196,20 @@ UID:pandascore-1711436@cs2
 DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261006T120000Z
+DTEND:20261006T143000Z
+UID:pandascore-1711439@cs2
+DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
+ tream: https://twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261006T120000Z
+DTEND:20261006T143000Z
+UID:pandascore-1711438@cs2
+DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
+ tream: https://twitch.tv/eslcs
+END:VEVENT
 END:VCALENDAR
