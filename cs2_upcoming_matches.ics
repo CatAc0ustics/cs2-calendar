@@ -5,23 +5,7 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Round 1: G2 vs Natus Vincere
-DTSTART:20261003T163000Z
-DTEND:20261003T190000Z
-UID:pandascore-1711376@cs2
-DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
- tream: https://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 1: FURIA vs BetBoom Team
-DTSTART:20261003T163000Z
-DTEND:20261003T190000Z
-UID:pandascore-1711374@cs2
-DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
- tream: https://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 2: TBD vs TBD
+SUMMARY:Round 2: ShindeN vs Legacy
 DTSTART:20261004T090000Z
 DTEND:20261004T113000Z
 UID:pandascore-1711378@cs2
@@ -29,7 +13,7 @@ DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 2: TBD vs TBD
+SUMMARY:Round 2: Spirit vs PARIVISION
 DTSTART:20261004T090000Z
 DTEND:20261004T113000Z
 UID:pandascore-1711377@cs2
