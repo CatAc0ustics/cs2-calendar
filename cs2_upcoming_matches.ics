@@ -5,22 +5,6 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Round 1: Legacy vs PARIVISION
-DTSTART:20261003T090000Z
-DTEND:20261003T113000Z
-UID:pandascore-1711371@cs2
-DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
- tream: https://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 1: Team Falcons vs TYLOO
-DTSTART:20261003T090000Z
-DTEND:20261003T113000Z
-UID:pandascore-1711369@cs2
-DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
- tream: https://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Round 1: Vitality vs 1WIN
 DTSTART:20261003T113000Z
 DTEND:20261003T140000Z
