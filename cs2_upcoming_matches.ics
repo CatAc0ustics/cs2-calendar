@@ -5,38 +5,6 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Round 2: ShindeN vs Legacy
-DTSTART:20261004T090000Z
-DTEND:20261004T113000Z
-UID:pandascore-1711378@cs2
-DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
- tream: https://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 2: Spirit vs PARIVISION
-DTSTART:20261004T090000Z
-DTEND:20261004T113000Z
-UID:pandascore-1711377@cs2
-DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
- tream: https://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 2: Team Falcons vs Aurora Gaming
-DTSTART:20261004T113000Z
-DTEND:20261004T140000Z
-UID:pandascore-1711380@cs2
-DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
- tream: https://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 2: 9z vs TYLOO
-DTSTART:20261004T113000Z
-DTEND:20261004T140000Z
-UID:pandascore-1711379@cs2
-DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
- tream: https://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Round 2: FURIA vs MOUZ
 DTSTART:20261004T140000Z
 DTEND:20261004T163000Z
