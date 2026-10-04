@@ -5,7 +5,7 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: ShindeN vs G2
 DTSTART:20261005T090000Z
 DTEND:20261005T113000Z
 UID:pandascore-1711385@cs2
@@ -13,7 +13,7 @@ DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: PARIVISION vs FURIA
 DTSTART:20261005T090000Z
 DTEND:20261005T113000Z
 UID:pandascore-1711384@cs2
@@ -21,7 +21,7 @@ DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: 9z vs Natus Vincere
 DTSTART:20261005T113000Z
 DTEND:20261005T140000Z
 UID:pandascore-1711390@cs2
@@ -29,7 +29,7 @@ DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Legacy vs 1WIN
 DTSTART:20261005T113000Z
 DTEND:20261005T140000Z
 UID:pandascore-1711386@cs2
@@ -37,7 +37,7 @@ DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Spirit vs MOUZ
 DTSTART:20261005T140000Z
 DTEND:20261005T163000Z
 UID:pandascore-1711435@cs2
@@ -45,7 +45,7 @@ DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: M80 vs TYLOO
 DTSTART:20261005T140000Z
 DTEND:20261005T163000Z
 UID:pandascore-1711434@cs2
@@ -53,7 +53,7 @@ DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Vitality vs Team Falcons
 DTSTART:20261005T163000Z
 DTEND:20261005T190000Z
 UID:pandascore-1711437@cs2
@@ -61,7 +61,7 @@ DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Aurora Gaming vs BetBoom Team
 DTSTART:20261005T163000Z
 DTEND:20261005T190000Z
 UID:pandascore-1711436@cs2
