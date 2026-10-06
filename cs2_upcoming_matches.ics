@@ -5,15 +5,7 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Round 3: Aurora Gaming vs BetBoom Team
-DTSTART:20261005T170000Z
-DTEND:20261005T193000Z
-UID:pandascore-1711436@cs2
-DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
- tream: https://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: Spirit vs 1WIN
 DTSTART:20261006T120000Z
 DTEND:20261006T143000Z
 UID:pandascore-1711439@cs2
@@ -21,7 +13,7 @@ DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: G2 vs PARIVISION
 DTSTART:20261006T120000Z
 DTEND:20261006T143000Z
 UID:pandascore-1711438@cs2
@@ -29,7 +21,7 @@ DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: 9z vs BetBoom Team
 DTSTART:20261006T143000Z
 DTEND:20261006T170000Z
 UID:pandascore-1711462@cs2
@@ -37,7 +29,7 @@ DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: FURIA vs Aurora Gaming
 DTSTART:20261006T143000Z
 DTEND:20261006T170000Z
 UID:pandascore-1711440@cs2
@@ -45,7 +37,7 @@ DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: Team Falcons vs Natus Vincere
 DTSTART:20261006T170000Z
 DTEND:20261006T193000Z
 UID:pandascore-1711470@cs2
@@ -53,7 +45,7 @@ DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
  tream: https://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: Legacy vs M80
 DTSTART:20261006T170000Z
 DTEND:20261006T193000Z
 UID:pandascore-1711469@cs2
