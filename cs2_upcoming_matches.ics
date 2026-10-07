@@ -4,12 +4,4 @@ PRODID:-//CS2 Match Schedule//EN
 NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
-BEGIN:VEVENT
-SUMMARY:Round 5: Spirit vs M80
-DTSTART:20261007T170000Z
-DTEND:20261007T193000Z
-UID:pandascore-1711471@cs2
-DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
- tream: https://twitch.tv/eslcs
-END:VEVENT
 END:VCALENDAR
