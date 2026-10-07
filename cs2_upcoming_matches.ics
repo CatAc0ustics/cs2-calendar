@@ -5,22 +5,6 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Round 5: FURIA vs 9z
-DTSTART:20261007T120000Z
-DTEND:20261007T143000Z
-UID:pandascore-1711472@cs2
-DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
- tream: https://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 5: PARIVISION vs Natus Vincere
-DTSTART:20261007T143000Z
-DTEND:20261007T170000Z
-UID:pandascore-1711473@cs2
-DESCRIPTION:Tournament: ESL Pro League\nStage: Group Stage\nFormat: BO3\nS
- tream: https://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Round 5: Spirit vs M80
 DTSTART:20261007T170000Z
 DTEND:20261007T193000Z
