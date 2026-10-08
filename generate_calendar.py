@@ -7,6 +7,9 @@ from icalendar import Calendar, Event
 TOKEN = os.environ.get("PANDASCORE_TOKEN")
 URL = "https://api.pandascore.co/csgo/matches/upcoming"
 
+if not TOKEN:
+    raise RuntimeError("PANDASCORE_TOKEN is missing or empty")
+
 ALLOWED_ORGANIZERS = [
     "esl",
     "blast",
@@ -45,27 +48,33 @@ for page in range(1, 4):
         "sort": "begin_at"
     }
 
-    response = requests.get(
-        URL,
-        headers=headers,
-        params=params,
-        timeout=30
-    )
+    response = requests.get(URL, headers=headers, params=params, timeout=30)
+    request_id = response.headers.get("X-Request-Id") or response.headers.get("X-Request-ID")
+    print(f"PandaScore page {page}: HTTP {response.status_code}; request_id={request_id or 'unavailable'}")
 
-    if response.status_code == 200:
-        page_data = response.json()
+    # Never treat an API error as an empty schedule or overwrite a previously good feed.
+    response.raise_for_status()
+    page_data = response.json()
+    if not isinstance(page_data, list):
+        raise RuntimeError(f"PandaScore returned unexpected JSON type: {type(page_data).__name__}")
 
-        if not page_data:
-            break
-
-        all_matches.extend(page_data)
-    else:
+    print(f"PandaScore page {page}: {len(page_data)} matches")
+    if not page_data:
         break
 
+    all_matches.extend(page_data)
+
+print(f"PandaScore total matches fetched: {len(all_matches)}")
+
 accepted_events = {}
+rejected_missing_start = 0
+rejected_organizer = 0
+rejected_exclusion = 0
+eligible_match_names = []
 
 for match in all_matches:
     if not match.get("begin_at"):
+        rejected_missing_start += 1
         continue
 
     tournament_name = match.get("league", {}).get("name", "")
@@ -88,65 +97,38 @@ for match in all_matches:
         if part
     ).lower()
 
-    if not any(
-        keyword.lower() in full_info
-        for keyword in ALLOWED_ORGANIZERS
-    ):
+    if not any(keyword.lower() in full_info for keyword in ALLOWED_ORGANIZERS):
+        rejected_organizer += 1
+        if len(eligible_match_names) < 12:
+            eligible_match_names.append(f"{tournament_name} / {stage_name} / {match_name}")
         continue
 
-    if any(
-        re.search(pattern, full_info, flags=re.IGNORECASE)
-        for pattern in EXCLUDED_PATTERNS
-    ):
+    if any(re.search(pattern, full_info, flags=re.IGNORECASE) for pattern in EXCLUDED_PATTERNS):
+        rejected_exclusion += 1
         continue
 
     num_games = match.get("number_of_games")
     match_format = f"BO{num_games}" if num_games else "Unknown Format"
 
-    start_time = datetime.fromisoformat(
-        match["begin_at"].replace("Z", "+00:00")
-    )
-
-    end_time = start_time + timedelta(
-        hours=2,
-        minutes=30
-    )
+    start_time = datetime.fromisoformat(match["begin_at"].replace("Z", "+00:00"))
+    end_time = start_time + timedelta(hours=2, minutes=30)
 
     if "blast" in full_info:
         stream_url = "https://twitch.tv/blastpremier"
-
-    elif any(
-        k in full_info
-        for k in ["esl", "iem", "intel extreme masters"]
-    ):
+    elif any(k in full_info for k in ["esl", "iem", "intel extreme masters"]):
         stream_url = "https://twitch.tv/eslcs"
-
     elif "pgl" in full_info:
         stream_url = "https://twitch.tv/pgl"
-
-    elif any(
-        k in full_info
-        for k in ["ewc", "esports world cup", "road to ewc"]
-    ):
+    elif any(k in full_info for k in ["ewc", "esports world cup", "road to ewc"]):
         stream_url = "https://twitch.tv/ewc_plus_en"
-
     else:
         stream_list = match.get("streams_list", [])
-
-        if stream_list:
-            stream_url = (
-                stream_list[0].get("raw_url")
-                or "No stream available"
-            )
-        else:
-            stream_url = "No stream available"
+        stream_url = (stream_list[0].get("raw_url") or "No stream available") if stream_list else "No stream available"
 
     event = Event()
-
     event.add("summary", match_name)
     event.add("dtstart", start_time)
     event.add("dtend", end_time)
-
     event.add(
         "description",
         f"Tournament: {tournament_name}\n"
@@ -157,11 +139,20 @@ for match in all_matches:
 
     uid = f"pandascore-{match.get('id')}@cs2"
     event.add("uid", uid)
-
     accepted_events[uid] = event
 
-cal = Calendar()
+print(
+    f"Calendar filter results: accepted={len(accepted_events)}, "
+    f"missing_start={rejected_missing_start}, "
+    f"organizer_mismatch={rejected_organizer}, "
+    f"excluded_tournament={rejected_exclusion}"
+)
+if not accepted_events and eligible_match_names:
+    print("Sample events rejected by organizer filter:")
+    for item in eligible_match_names:
+        print(f"  {item}")
 
+cal = Calendar()
 cal.add("prodid", "-//CS2 Match Schedule//EN")
 cal.add("version", "2.0")
 cal.add("x-wr-calname", "CS2 Match Schedule")
@@ -172,6 +163,7 @@ for event in accepted_events.values():
     cal.add_component(event)
 
 ics_filename = "cs2_upcoming_matches.ics"
-
 with open(ics_filename, "wb") as f:
     f.write(cal.to_ical())
+
+print(f"Wrote {ics_filename} with {len(accepted_events)} events")
