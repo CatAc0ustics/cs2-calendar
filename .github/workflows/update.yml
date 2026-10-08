@@ -1,9 +1,13 @@
 name: Update CS2 Calendar
 on:
   schedule:
-    - cron: '0 */4 * * *' 
-  workflow_dispatch: 
-  
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'generate_calendar.py'
+      - '.github/workflows/update.yml'
+
 permissions:
   contents: write
 
