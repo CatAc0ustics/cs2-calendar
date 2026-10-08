@@ -41,7 +41,7 @@ headers = {
 
 all_matches = []
 
-for page in range(1, 4):
+for page in range(1, 11):
     params = {
         "per_page": 100,
         "page": page,
