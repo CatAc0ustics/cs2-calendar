@@ -4,4 +4,84 @@ PRODID:-//CS2 Match Schedule//EN
 NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
+BEGIN:VEVENT
+SUMMARY:9z vs Aurora Gaming
+DTSTART:20261014T083000Z
+DTEND:20261014T110000Z
+UID:pandascore-1741357@cs2
+DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group A\nFo
+ rmat: BO3\nStream: https://kick.com/thunderpick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Falcons vs NIP
+DTSTART:20261014T110000Z
+DTEND:20261014T133000Z
+UID:pandascore-1741358@cs2
+DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group A\nFo
+ rmat: BO3\nStream: https://kick.com/thunderpick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legacy vs PARIVISION
+DTSTART:20261014T133000Z
+DTEND:20261014T160000Z
+UID:pandascore-1741363@cs2
+DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group B\nFo
+ rmat: BO3\nStream: https://kick.com/thunderpick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FURIA vs BetBoom Team
+DTSTART:20261014T160000Z
+DTEND:20261014T183000Z
+UID:pandascore-1741364@cs2
+DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group B\nFo
+ rmat: BO3\nStream: https://kick.com/thunderpick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winners' Match: TBD vs TBD
+DTSTART:20261015T083000Z
+DTEND:20261015T110000Z
+UID:pandascore-1741369@cs2
+DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group A\nFo
+ rmat: BO3\nStream: https://kick.com/thunderpick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elimination Match: TBD vs TBD
+DTSTART:20261015T110000Z
+DTEND:20261015T133000Z
+UID:pandascore-1741370@cs2
+DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group A\nFo
+ rmat: BO3\nStream: https://kick.com/thunderpick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winners' Match: TBD vs TBD
+DTSTART:20261015T133000Z
+DTEND:20261015T160000Z
+UID:pandascore-1741372@cs2
+DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group B\nFo
+ rmat: BO3\nStream: https://kick.com/thunderpick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elimination Match: TBD vs TBD
+DTSTART:20261015T160000Z
+DTEND:20261015T183000Z
+UID:pandascore-1741373@cs2
+DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group B\nFo
+ rmat: BO3\nStream: https://kick.com/thunderpick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decider Match: TBD vs TBD
+DTSTART:20261016T140000Z
+DTEND:20261016T163000Z
+UID:pandascore-1741371@cs2
+DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group A\nFo
+ rmat: BO3\nStream: https://kick.com/thunderpick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decider Match: TBD vs TBD
+DTSTART:20261016T170000Z
+DTEND:20261016T193000Z
+UID:pandascore-1741374@cs2
+DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group B\nFo
+ rmat: BO3\nStream: https://kick.com/thunderpick
+END:VEVENT
 END:VCALENDAR
