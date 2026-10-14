@@ -5,14 +5,6 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:9z vs Aurora Gaming
-DTSTART:20261014T083000Z
-DTEND:20261014T110000Z
-UID:pandascore-1741357@cs2
-DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group A\nFo
- rmat: BO3\nStream: https://www.twitch.tv/thunderpicktv
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Team Falcons vs NIP
 DTSTART:20261014T110000Z
 DTEND:20261014T133000Z
@@ -26,7 +18,7 @@ DTSTART:20261014T133000Z
 DTEND:20261014T160000Z
 UID:pandascore-1741363@cs2
 DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group B\nFo
- rmat: BO3\nStream: https://www.twitch.tv/thunderpicktv
+ rmat: BO3\nStream: https://kick.com/rootthegamer
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FURIA vs BetBoom Team
