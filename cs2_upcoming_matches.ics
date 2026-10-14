@@ -5,42 +5,26 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Team Falcons vs NIP
-DTSTART:20261014T110000Z
-DTEND:20261014T133000Z
-UID:pandascore-1741358@cs2
-DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group A\nFo
- rmat: BO3\nStream: https://www.twitch.tv/thunderpicktv
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legacy vs PARIVISION
-DTSTART:20261014T133000Z
-DTEND:20261014T160000Z
-UID:pandascore-1741363@cs2
-DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group B\nFo
- rmat: BO3\nStream: https://kick.com/rootthegamer
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FURIA vs BetBoom Team
-DTSTART:20261014T160000Z
-DTEND:20261014T183000Z
+DTSTART:20261014T173000Z
+DTEND:20261014T200000Z
 UID:pandascore-1741364@cs2
 DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group B\nFo
  rmat: BO3\nStream: https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winners' Match: TBD vs TBD
+SUMMARY:Elimination Match: Aurora Gaming vs NIP
 DTSTART:20261015T083000Z
 DTEND:20261015T110000Z
-UID:pandascore-1741369@cs2
+UID:pandascore-1741370@cs2
 DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group A\nFo
  rmat: BO3\nStream: https://kick.com/thunderpick
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elimination Match: TBD vs TBD
+SUMMARY:Winners' Match: 9z vs Team Falcons
 DTSTART:20261015T110000Z
 DTEND:20261015T133000Z
-UID:pandascore-1741370@cs2
+UID:pandascore-1741369@cs2
 DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group A\nFo
  rmat: BO3\nStream: https://kick.com/thunderpick
 END:VEVENT
