@@ -5,14 +5,6 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Decider Match: Legacy vs BetBoom Team
-DTSTART:20261016T170000Z
-DTEND:20261016T193000Z
-UID:pandascore-1741374@cs2
-DESCRIPTION:Tournament: Thunderpick World Championship\nStage: Group B\nFo
- rmat: BO3\nStream: https://kick.com/thunderpick
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Round 1: Aurora Gaming vs TheMongolz
 DTSTART:20261024T070000Z
 DTEND:20261024T093000Z
@@ -73,6 +65,206 @@ SUMMARY:Round 1: G2 vs Natus Vincere
 DTSTART:20261024T160000Z
 DTEND:20261024T183000Z
 UID:pandascore-1752691@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 2: TBD vs TBD
+DTSTART:20261025T080000Z
+DTEND:20261025T103000Z
+UID:pandascore-1753697@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 2: TBD vs TBD
+DTSTART:20261025T080000Z
+DTEND:20261025T103000Z
+UID:pandascore-1753696@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 2: TBD vs TBD
+DTSTART:20261025T110000Z
+DTEND:20261025T133000Z
+UID:pandascore-1753699@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 2: TBD vs TBD
+DTSTART:20261025T110000Z
+DTEND:20261025T133000Z
+UID:pandascore-1753698@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 2: TBD vs TBD
+DTSTART:20261025T140000Z
+DTEND:20261025T163000Z
+UID:pandascore-1753701@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 2: TBD vs TBD
+DTSTART:20261025T140000Z
+DTEND:20261025T163000Z
+UID:pandascore-1753700@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 2: TBD vs TBD
+DTSTART:20261025T170000Z
+DTEND:20261025T193000Z
+UID:pandascore-1753703@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 2: TBD vs TBD
+DTSTART:20261025T170000Z
+DTEND:20261025T193000Z
+UID:pandascore-1753702@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 3: TBD vs TBD
+DTSTART:20261026T080000Z
+DTEND:20261026T103000Z
+UID:pandascore-1753705@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 3: TBD vs TBD
+DTSTART:20261026T080000Z
+DTEND:20261026T103000Z
+UID:pandascore-1753704@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 3: TBD vs TBD
+DTSTART:20261026T110000Z
+DTEND:20261026T133000Z
+UID:pandascore-1753707@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 3: TBD vs TBD
+DTSTART:20261026T110000Z
+DTEND:20261026T133000Z
+UID:pandascore-1753706@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 3: TBD vs TBD
+DTSTART:20261026T140000Z
+DTEND:20261026T163000Z
+UID:pandascore-1753709@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 3: TBD vs TBD
+DTSTART:20261026T140000Z
+DTEND:20261026T163000Z
+UID:pandascore-1753708@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 3: TBD vs TBD
+DTSTART:20261026T170000Z
+DTEND:20261026T193000Z
+UID:pandascore-1753711@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 3: TBD vs TBD
+DTSTART:20261026T170000Z
+DTEND:20261026T193000Z
+UID:pandascore-1753710@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261027T110000Z
+DTEND:20261027T133000Z
+UID:pandascore-1753713@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261027T110000Z
+DTEND:20261027T133000Z
+UID:pandascore-1753712@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261027T140000Z
+DTEND:20261027T163000Z
+UID:pandascore-1753715@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261027T140000Z
+DTEND:20261027T163000Z
+UID:pandascore-1753714@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261027T170000Z
+DTEND:20261027T193000Z
+UID:pandascore-1753717@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 4: TBD vs TBD
+DTSTART:20261027T170000Z
+DTEND:20261027T193000Z
+UID:pandascore-1753716@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 5: TBD vs TBD
+DTSTART:20261028T110000Z
+DTEND:20261028T133000Z
+UID:pandascore-1753718@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 5: TBD vs TBD
+DTSTART:20261028T140000Z
+DTEND:20261028T163000Z
+UID:pandascore-1753719@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 5: TBD vs TBD
+DTSTART:20261028T170000Z
+DTEND:20261028T193000Z
+UID:pandascore-1753721@cs2
 DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
  am: https://twitch.tv/pgl
 END:VEVENT
