@@ -268,4 +268,68 @@ UID:pandascore-1753721@cs2
 DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
  am: https://twitch.tv/pgl
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 4: PARIVISION vs G2
+DTSTART:20261102T070000Z
+DTEND:20261102T093000Z
+UID:pandascore-1761578@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 3: Aurora Gaming vs Liquid
+DTSTART:20261102T070000Z
+DTEND:20261102T093000Z
+UID:pandascore-1761577@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 2: 9z vs BetBoom Team
+DTSTART:20261102T070000Z
+DTEND:20261102T093000Z
+UID:pandascore-1761576@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 1: MOUZ vs TYLOO
+DTSTART:20261102T070000Z
+DTEND:20261102T093000Z
+UID:pandascore-1761575@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 4: Natus Vincere vs Team Falcons
+DTSTART:20261102T070000Z
+DTEND:20261102T093000Z
+UID:pandascore-1761573@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 3: FURIA vs FaZe
+DTSTART:20261102T070000Z
+DTEND:20261102T093000Z
+UID:pandascore-1761572@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 2: Heroic vs B8
+DTSTART:20261102T070000Z
+DTEND:20261102T093000Z
+UID:pandascore-1761571@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 1: Legacy vs TheMongolz
+DTSTART:20261102T070000Z
+DTEND:20261102T093000Z
+UID:pandascore-1761567@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
 END:VCALENDAR
