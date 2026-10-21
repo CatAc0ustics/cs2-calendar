@@ -332,4 +332,68 @@ UID:pandascore-1761567@cs2
 DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
  twitch.tv/eslcs
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legacy vs FURIA
+DTSTART:20261111T020000Z
+DTEND:20261111T043000Z
+UID:pandascore-1762450@cs2
+DESCRIPTION:Tournament: BLAST Rivals\nStage: Group A\nFormat: BO3\nStream:
+  https://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vitality vs Team Falcons
+DTSTART:20261111T043000Z
+DTEND:20261111T070000Z
+UID:pandascore-1762451@cs2
+DESCRIPTION:Tournament: BLAST Rivals\nStage: Group A\nFormat: BO3\nStream:
+  https://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spirit vs FUT Esports
+DTSTART:20261111T070000Z
+DTEND:20261111T093000Z
+UID:pandascore-1762459@cs2
+DESCRIPTION:Tournament: BLAST Rivals\nStage: Group B\nFormat: BO3\nStream:
+  https://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOUZ vs G2
+DTSTART:20261111T093000Z
+DTEND:20261111T120000Z
+UID:pandascore-1762460@cs2
+DESCRIPTION:Tournament: BLAST Rivals\nStage: Group B\nFormat: BO3\nStream:
+  https://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elimination Match: TBD vs TBD
+DTSTART:20261112T020000Z
+DTEND:20261112T043000Z
+UID:pandascore-1762452@cs2
+DESCRIPTION:Tournament: BLAST Rivals\nStage: Group A\nFormat: BO3\nStream:
+  https://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winners Match: TBD vs TBD
+DTSTART:20261112T043000Z
+DTEND:20261112T070000Z
+UID:pandascore-1762453@cs2
+DESCRIPTION:Tournament: BLAST Rivals\nStage: Group A\nFormat: BO3\nStream:
+  https://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elimination Match: TBD vs TBD
+DTSTART:20261112T070000Z
+DTEND:20261112T093000Z
+UID:pandascore-1762461@cs2
+DESCRIPTION:Tournament: BLAST Rivals\nStage: Group B\nFormat: BO3\nStream:
+  https://twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winners Match: TBD vs TBD
+DTSTART:20261112T093000Z
+DTEND:20261112T120000Z
+UID:pandascore-1762462@cs2
+DESCRIPTION:Tournament: BLAST Rivals\nStage: Group B\nFormat: BO3\nStream:
+  https://twitch.tv/blastpremier
+END:VEVENT
 END:VCALENDAR
