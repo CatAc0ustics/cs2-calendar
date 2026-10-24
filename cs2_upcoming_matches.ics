@@ -5,38 +5,6 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Round 1: MOUZ vs Liquid
-DTSTART:20261024T100000Z
-DTEND:20261024T123000Z
-UID:pandascore-1752688@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 1: Spirit vs BetBoom Team
-DTSTART:20261024T100000Z
-DTEND:20261024T123000Z
-UID:pandascore-1752687@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 1: Vitality vs 9z
-DTSTART:20261024T130000Z
-DTEND:20261024T153000Z
-UID:pandascore-1752690@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 1: Legacy vs Nemiga
-DTSTART:20261024T130000Z
-DTEND:20261024T153000Z
-UID:pandascore-1752689@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Round 1: FURIA vs DENDELE CS
 DTSTART:20261024T160000Z
 DTEND:20261024T183000Z
