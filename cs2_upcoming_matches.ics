@@ -5,22 +5,6 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Round 2: Spirit vs TYLOO
-DTSTART:20261025T080000Z
-DTEND:20261025T103000Z
-UID:pandascore-1753697@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 2: FUT Esports vs Liquid
-DTSTART:20261025T080000Z
-DTEND:20261025T103000Z
-UID:pandascore-1753696@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Round 2: BetBoom Team vs Nemiga
 DTSTART:20261025T110000Z
 DTEND:20261025T133000Z
