@@ -5,15 +5,7 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Round 2: FURIA vs Natus Vincere
-DTSTART:20261025T154500Z
-DTEND:20261025T181500Z
-UID:pandascore-1753703@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Nemiga vs Aurora Gaming
 DTSTART:20261026T080000Z
 DTEND:20261026T103000Z
 UID:pandascore-1753705@cs2
@@ -21,7 +13,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
  am: https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: TheMongolz vs MOUZ
 DTSTART:20261026T080000Z
 DTEND:20261026T103000Z
 UID:pandascore-1753704@cs2
@@ -29,7 +21,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
  am: https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: 9z vs TYLOO
 DTSTART:20261026T110000Z
 DTEND:20261026T133000Z
 UID:pandascore-1753707@cs2
@@ -37,7 +29,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
  am: https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Vitality vs FUT Esports
 DTSTART:20261026T110000Z
 DTEND:20261026T133000Z
 UID:pandascore-1753706@cs2
@@ -45,7 +37,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
  am: https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Spirit vs FURIA
 DTSTART:20261026T140000Z
 DTEND:20261026T163000Z
 UID:pandascore-1753709@cs2
@@ -53,7 +45,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
  am: https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Liquid vs Legacy
 DTSTART:20261026T140000Z
 DTEND:20261026T163000Z
 UID:pandascore-1753708@cs2
@@ -61,7 +53,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
  am: https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: G2 vs DENDELE CS
 DTSTART:20261026T170000Z
 DTEND:20261026T193000Z
 UID:pandascore-1753711@cs2
@@ -69,7 +61,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
  am: https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: BetBoom Team vs Natus Vincere
 DTSTART:20261026T170000Z
 DTEND:20261026T193000Z
 UID:pandascore-1753710@cs2
