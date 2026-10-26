@@ -5,22 +5,6 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Round 3: Nemiga vs Aurora Gaming
-DTSTART:20261026T080000Z
-DTEND:20261026T103000Z
-UID:pandascore-1753705@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 3: TheMongolz vs MOUZ
-DTSTART:20261026T080000Z
-DTEND:20261026T103000Z
-UID:pandascore-1753704@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Round 3: 9z vs TYLOO
 DTSTART:20261026T110000Z
 DTEND:20261026T133000Z
