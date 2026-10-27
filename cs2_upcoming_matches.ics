@@ -5,95 +5,31 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Alliance vs FaZe
-DTSTART:20261027T110000Z
-DTEND:20261027T133000Z
-UID:pandascore-1763044@cs2
-DESCRIPTION:Tournament: Tesla Cup\nStage: Group A\nFormat: BO3\nStream: ht
- tps://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 4: Liquid vs Aurora Gaming
-DTSTART:20261027T110000Z
-DTEND:20261027T133000Z
-UID:pandascore-1753713@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 4: Nemiga vs DENDELE CS
-DTSTART:20261027T110000Z
-DTEND:20261027T133000Z
-UID:pandascore-1753712@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elimination Match: TBD vs TBD
-DTSTART:20261027T140000Z
-DTEND:20261027T163000Z
-UID:pandascore-1763045@cs2
-DESCRIPTION:Tournament: Tesla Cup\nStage: Group A\nFormat: BO3\nStream: ht
- tps://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 4: Spirit vs MOUZ
-DTSTART:20261027T140000Z
-DTEND:20261027T163000Z
-UID:pandascore-1753715@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 4: TheMongolz vs Legacy
-DTSTART:20261027T140000Z
-DTEND:20261027T163000Z
-UID:pandascore-1753714@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Luminosity vs HOTU
-DTSTART:20261027T170000Z
-DTEND:20261027T193000Z
-UID:pandascore-1763053@cs2
-DESCRIPTION:Tournament: Tesla Cup\nStage: Group B\nFormat: BO3\nStream: ht
- tps://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 4: Vitality vs Natus Vincere
-DTSTART:20261027T170000Z
-DTEND:20261027T193000Z
-UID:pandascore-1753717@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 4: FURIA vs TYLOO
-DTSTART:20261027T170000Z
-DTEND:20261027T193000Z
-UID:pandascore-1753716@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Envy vs GamerLegion
-DTSTART:20261027T200000Z
-DTEND:20261027T223000Z
+DTSTART:20261027T173000Z
+DTEND:20261027T200000Z
 UID:pandascore-1763054@cs2
 DESCRIPTION:Tournament: Tesla Cup\nStage: Group B\nFormat: BO3\nStream: ht
  tps://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winners' Match: TBD vs TBD
+SUMMARY:Round 4: Vitality vs Natus Vincere
+DTSTART:20261027T174500Z
+DTEND:20261027T201500Z
+UID:pandascore-1753717@cs2
+DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
+ am: https://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elimination Match: B8 vs Alliance
 DTSTART:20261028T080000Z
 DTEND:20261028T103000Z
-UID:pandascore-1763046@cs2
+UID:pandascore-1763045@cs2
 DESCRIPTION:Tournament: Tesla Cup\nStage: Group A\nFormat: BO3\nStream: ht
  tps://twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: K27 vs TBD
 DTSTART:20261028T110000Z
 DTEND:20261028T133000Z
 UID:pandascore-1763047@cs2
@@ -109,7 +45,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
  am: https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winners' Match: TBD vs TBD
+SUMMARY:Winners' Match: HOTU vs TBD
 DTSTART:20261028T140000Z
 DTEND:20261028T163000Z
 UID:pandascore-1763051@cs2
@@ -125,7 +61,7 @@ DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
  am: https://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elimination Match: TBD vs TBD
+SUMMARY:Elimination Match: Luminosity vs TBD
 DTSTART:20261028T170000Z
 DTEND:20261028T193000Z
 UID:pandascore-1763055@cs2
