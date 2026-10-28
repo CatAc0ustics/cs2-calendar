@@ -5,46 +5,6 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Elimination Match: B8 vs Alliance
-DTSTART:20261028T080000Z
-DTEND:20261028T103000Z
-UID:pandascore-1763045@cs2
-DESCRIPTION:Tournament: Tesla Cup\nStage: Group A\nFormat: BO3\nStream: ht
- tps://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Decider Match: K27 vs TBD
-DTSTART:20261028T110000Z
-DTEND:20261028T133000Z
-UID:pandascore-1763047@cs2
-DESCRIPTION:Tournament: Tesla Cup\nStage: Group A\nFormat: BO3\nStream: ht
- tps://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 5: TheMongolz vs Nemiga
-DTSTART:20261028T110000Z
-DTEND:20261028T133000Z
-UID:pandascore-1753718@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winners' Match: HOTU vs GamerLegion
-DTSTART:20261028T140000Z
-DTEND:20261028T163000Z
-UID:pandascore-1763051@cs2
-DESCRIPTION:Tournament: Tesla Cup\nStage: Group B\nFormat: BO3\nStream: ht
- tps://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 5: Liquid vs FURIA
-DTSTART:20261028T140000Z
-DTEND:20261028T163000Z
-UID:pandascore-1753719@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Elimination Match: Luminosity vs Envy
 DTSTART:20261028T170000Z
 DTEND:20261028T193000Z
