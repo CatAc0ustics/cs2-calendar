@@ -5,30 +5,6 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Elimination Match: Luminosity vs Envy
-DTSTART:20261028T170000Z
-DTEND:20261028T193000Z
-UID:pandascore-1763055@cs2
-DESCRIPTION:Tournament: Tesla Cup\nStage: Group B\nFormat: BO3\nStream: ht
- tps://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 5: Spirit vs Natus Vincere
-DTSTART:20261028T170000Z
-DTEND:20261028T193000Z
-UID:pandascore-1753721@cs2
-DESCRIPTION:Tournament: PGL Masters\nStage: Group Stage\nFormat: BO3\nStre
- am: https://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Decider Match: TBD vs TBD
-DTSTART:20261028T200000Z
-DTEND:20261028T223000Z
-UID:pandascore-1763056@cs2
-DESCRIPTION:Tournament: Tesla Cup\nStage: Group B\nFormat: BO3\nStream: ht
- tps://twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Upper Bracket Quarterfinal 4: PARIVISION vs G2
 DTSTART:20261102T070000Z
 DTEND:20261102T093000Z
