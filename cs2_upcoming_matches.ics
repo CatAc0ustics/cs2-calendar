@@ -5,17 +5,33 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 2: Heroic vs B8
+DTSTART:20261102T020000Z
+DTEND:20261102T043000Z
+UID:pandascore-1761571@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 1: Legacy vs TheMongolz
+DTSTART:20261102T020000Z
+DTEND:20261102T043000Z
+UID:pandascore-1761567@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Upper Bracket Quarterfinal 4: PARIVISION vs G2
-DTSTART:20261102T070000Z
-DTEND:20261102T093000Z
+DTSTART:20261102T043000Z
+DTEND:20261102T070000Z
 UID:pandascore-1761578@cs2
 DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
  twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upper Bracket Quarterfinal 3: Aurora Gaming vs Liquid
-DTSTART:20261102T070000Z
-DTEND:20261102T093000Z
+DTSTART:20261102T043000Z
+DTEND:20261102T070000Z
 UID:pandascore-1761577@cs2
 DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
  twitch.tv/eslcs
@@ -29,22 +45,6 @@ DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
  twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper Bracket Quarterfinal 1: MOUZ vs TYLOO
-DTSTART:20261102T070000Z
-DTEND:20261102T093000Z
-UID:pandascore-1761575@cs2
-DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
- twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Upper Bracket Quarterfinal 4: Natus Vincere vs Team Falcons
-DTSTART:20261102T070000Z
-DTEND:20261102T093000Z
-UID:pandascore-1761573@cs2
-DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
- twitch.tv/eslcs
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Upper Bracket Quarterfinal 3: FURIA vs FaZe
 DTSTART:20261102T070000Z
 DTEND:20261102T093000Z
@@ -53,19 +53,147 @@ DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
  twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper Bracket Quarterfinal 2: Heroic vs B8
-DTSTART:20261102T070000Z
-DTEND:20261102T093000Z
-UID:pandascore-1761571@cs2
+SUMMARY:Upper Bracket Quarterfinal 1: MOUZ vs TYLOO
+DTSTART:20261102T093000Z
+DTEND:20261102T120000Z
+UID:pandascore-1761575@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Quarterfinal 4: Natus Vincere vs Team Falcons
+DTSTART:20261102T093000Z
+DTEND:20261102T120000Z
+UID:pandascore-1761573@cs2
 DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
  twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upper Bracket Quarterfinal 1: Legacy vs TheMongolz
-DTSTART:20261102T070000Z
-DTEND:20261102T093000Z
-UID:pandascore-1761567@cs2
+SUMMARY:Upper Bracket Semifinal 2: TBD vs TBD
+DTSTART:20261103T020000Z
+DTEND:20261103T043000Z
+UID:pandascore-1781462@cs2
 DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Semifinal 1: TBD vs TBD
+DTSTART:20261103T020000Z
+DTEND:20261103T043000Z
+UID:pandascore-1781461@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Quarterfinal 2: TBD vs TBD
+DTSTART:20261103T043000Z
+DTEND:20261103T070000Z
+UID:pandascore-1781465@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Quarterfinal 1: TBD vs TBD
+DTSTART:20261103T043000Z
+DTEND:20261103T070000Z
+UID:pandascore-1781464@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Semifinal 2: TBD vs TBD
+DTSTART:20261103T070000Z
+DTEND:20261103T093000Z
+UID:pandascore-1781467@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Semifinal 1: TBD vs TBD
+DTSTART:20261103T070000Z
+DTEND:20261103T093000Z
+UID:pandascore-1781466@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Final: TBD vs TBD
+DTSTART:20261103T093000Z
+DTEND:20261103T120000Z
+UID:pandascore-1781468@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Final: TBD vs TBD
+DTSTART:20261103T093000Z
+DTEND:20261103T120000Z
+UID:pandascore-1781463@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group A\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Semifinal 2: TBD vs TBD
+DTSTART:20261104T020000Z
+DTEND:20261104T043000Z
+UID:pandascore-1781470@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Semifinal 1: TBD vs TBD
+DTSTART:20261104T020000Z
+DTEND:20261104T043000Z
+UID:pandascore-1781469@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Quarterfinal 2: TBD vs TBD
+DTSTART:20261104T043000Z
+DTEND:20261104T070000Z
+UID:pandascore-1781473@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Quarterfinal 1: TBD vs TBD
+DTSTART:20261104T043000Z
+DTEND:20261104T070000Z
+UID:pandascore-1781472@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Semifinal 2: TBD vs TBD
+DTSTART:20261104T070000Z
+DTEND:20261104T093000Z
+UID:pandascore-1781475@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Semifinal 1: TBD vs TBD
+DTSTART:20261104T070000Z
+DTEND:20261104T093000Z
+UID:pandascore-1781474@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Bracket Final: TBD vs TBD
+DTSTART:20261104T093000Z
+DTEND:20261104T120000Z
+UID:pandascore-1781476@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
+ twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Bracket Final: TBD vs TBD
+DTSTART:20261104T093000Z
+DTEND:20261104T120000Z
+UID:pandascore-1781471@cs2
+DESCRIPTION:Tournament: IEM\nStage: Group B\nFormat: BO3\nStream: https://
  twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
