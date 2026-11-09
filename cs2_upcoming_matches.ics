@@ -69,7 +69,7 @@ DESCRIPTION:Tournament: BLAST Rivals\nStage: Group B\nFormat: BO3\nStream:
   https://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 1: Liquid vs BC.Game Esports
+SUMMARY:Round 1: Liquid vs GOSH
 DTSTART:20261124T090000Z
 DTEND:20261124T113000Z
 UID:pandascore-1789260@cs2
@@ -77,7 +77,7 @@ DESCRIPTION:Tournament: PGL Major\nStage: Stage 1\nFormat: BO1\nStream: ht
  tps://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 1: PARIVISION vs DENDELE CS
+SUMMARY:Round 1: PVISION vs DENDELE CS
 DTSTART:20261124T090000Z
 DTEND:20261124T113000Z
 UID:pandascore-1789259@cs2
