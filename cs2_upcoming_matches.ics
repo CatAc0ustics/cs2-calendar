@@ -5,23 +5,7 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Spirit vs FUT Esports
-DTSTART:20261111T070000Z
-DTEND:20261111T093000Z
-UID:pandascore-1762459@cs2
-DESCRIPTION:Tournament: BLAST Rivals\nStage: Group B\nFormat: BO3\nStream:
-  https://twitch.tv/blastpremier
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOUZ vs G2
-DTSTART:20261111T093000Z
-DTEND:20261111T120000Z
-UID:pandascore-1762460@cs2
-DESCRIPTION:Tournament: BLAST Rivals\nStage: Group B\nFormat: BO3\nStream:
-  https://twitch.tv/blastpremier
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elimination Match: Legacy vs TBD
+SUMMARY:Elimination Match: Legacy vs Team Falcons
 DTSTART:20261112T020000Z
 DTEND:20261112T043000Z
 UID:pandascore-1762452@cs2
@@ -29,7 +13,7 @@ DESCRIPTION:Tournament: BLAST Rivals\nStage: Group A\nFormat: BO3\nStream:
   https://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winners Match: FURIA vs TBD
+SUMMARY:Winners Match: FURIA vs Vitality
 DTSTART:20261112T043000Z
 DTEND:20261112T070000Z
 UID:pandascore-1762453@cs2
@@ -37,7 +21,7 @@ DESCRIPTION:Tournament: BLAST Rivals\nStage: Group A\nFormat: BO3\nStream:
   https://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elimination Match: TBD vs TBD
+SUMMARY:Elimination Match: FUT Esports vs MOUZ
 DTSTART:20261112T070000Z
 DTEND:20261112T093000Z
 UID:pandascore-1762461@cs2
@@ -45,7 +29,7 @@ DESCRIPTION:Tournament: BLAST Rivals\nStage: Group B\nFormat: BO3\nStream:
   https://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winners Match: TBD vs TBD
+SUMMARY:Winners Match: Spirit vs G2
 DTSTART:20261112T093000Z
 DTEND:20261112T120000Z
 UID:pandascore-1762462@cs2
@@ -53,66 +37,66 @@ DESCRIPTION:Tournament: BLAST Rivals\nStage: Group B\nFormat: BO3\nStream:
   https://twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Round 1: Heroic vs Imperial
+DTSTART:20261124T040000Z
+DTEND:20261124T063000Z
+UID:pandascore-1789257@cs2
+DESCRIPTION:Tournament: PGL Major\nStage: Stage 1\nFormat: BO1\nStream: ht
+ tps://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 1: 9z vs Lynn Vision
+DTSTART:20261124T040000Z
+DTEND:20261124T063000Z
+UID:pandascore-1789254@cs2
+DESCRIPTION:Tournament: PGL Major\nStage: Stage 1\nFormat: BO1\nStream: ht
+ tps://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 1: NIP vs M80
+DTSTART:20261124T050000Z
+DTEND:20261124T073000Z
+UID:pandascore-1789258@cs2
+DESCRIPTION:Tournament: PGL Major\nStage: Stage 1\nFormat: BO1\nStream: ht
+ tps://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 1: 100 Thieves vs Chinggis Warriors
+DTSTART:20261124T050000Z
+DTEND:20261124T073000Z
+UID:pandascore-1789253@cs2
+DESCRIPTION:Tournament: PGL Major\nStage: Stage 1\nFormat: BO1\nStream: ht
+ tps://twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Round 1: Liquid vs GOSH
-DTSTART:20261124T090000Z
-DTEND:20261124T113000Z
+DTSTART:20261124T060000Z
+DTEND:20261124T083000Z
 UID:pandascore-1789260@cs2
 DESCRIPTION:Tournament: PGL Major\nStage: Stage 1\nFormat: BO1\nStream: ht
  tps://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 1: PVISION vs DENDELE CS
-DTSTART:20261124T090000Z
-DTEND:20261124T113000Z
+DTSTART:20261124T060000Z
+DTEND:20261124T083000Z
 UID:pandascore-1789259@cs2
 DESCRIPTION:Tournament: PGL Major\nStage: Stage 1\nFormat: BO1\nStream: ht
  tps://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 1: NIP vs M80
-DTSTART:20261124T090000Z
-DTEND:20261124T113000Z
-UID:pandascore-1789258@cs2
-DESCRIPTION:Tournament: PGL Major\nStage: Stage 1\nFormat: BO1\nStream: ht
- tps://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 1: Heroic vs Imperial
-DTSTART:20261124T090000Z
-DTEND:20261124T113000Z
-UID:pandascore-1789257@cs2
-DESCRIPTION:Tournament: PGL Major\nStage: Stage 1\nFormat: BO1\nStream: ht
- tps://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Round 1: FaZe vs Wildcard
-DTSTART:20261124T090000Z
-DTEND:20261124T113000Z
+DTSTART:20261124T070000Z
+DTEND:20261124T093000Z
 UID:pandascore-1789256@cs2
 DESCRIPTION:Tournament: PGL Major\nStage: Stage 1\nFormat: BO1\nStream: ht
  tps://twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 1: Eternal Fire vs FlyQuest
-DTSTART:20261124T090000Z
-DTEND:20261124T113000Z
+DTSTART:20261124T070000Z
+DTEND:20261124T093000Z
 UID:pandascore-1789255@cs2
-DESCRIPTION:Tournament: PGL Major\nStage: Stage 1\nFormat: BO1\nStream: ht
- tps://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 1: 9z vs Lynn Vision
-DTSTART:20261124T090000Z
-DTEND:20261124T113000Z
-UID:pandascore-1789254@cs2
-DESCRIPTION:Tournament: PGL Major\nStage: Stage 1\nFormat: BO1\nStream: ht
- tps://twitch.tv/pgl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Round 1: 100 Thieves vs Chinggis Warriors
-DTSTART:20261124T090000Z
-DTEND:20261124T113000Z
-UID:pandascore-1789253@cs2
 DESCRIPTION:Tournament: PGL Major\nStage: Stage 1\nFormat: BO1\nStream: ht
  tps://twitch.tv/pgl
 END:VEVENT
