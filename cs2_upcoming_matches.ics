@@ -5,22 +5,6 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Elimination Match: FUT Esports vs MOUZ
-DTSTART:20261112T070000Z
-DTEND:20261112T093000Z
-UID:pandascore-1762461@cs2
-DESCRIPTION:Tournament: BLAST Rivals\nStage: Group B\nFormat: BO3\nStream:
-  https://twitch.tv/blastpremier
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winners Match: Spirit vs G2
-DTSTART:20261112T093000Z
-DTEND:20261112T120000Z
-UID:pandascore-1762462@cs2
-DESCRIPTION:Tournament: BLAST Rivals\nStage: Group B\nFormat: BO3\nStream:
-  https://twitch.tv/blastpremier
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Round 1: Heroic vs Imperial
 DTSTART:20261124T040000Z
 DTEND:20261124T063000Z
