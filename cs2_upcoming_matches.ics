@@ -5,22 +5,6 @@ NAME:CS2 Match Schedule
 X-WR-CALNAME:CS2 Match Schedule
 TITLE:CS2 Match Schedule
 BEGIN:VEVENT
-SUMMARY:Elimination Match: Legacy vs Team Falcons
-DTSTART:20261112T020000Z
-DTEND:20261112T043000Z
-UID:pandascore-1762452@cs2
-DESCRIPTION:Tournament: BLAST Rivals\nStage: Group A\nFormat: BO3\nStream:
-  https://twitch.tv/blastpremier
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winners Match: FURIA vs Vitality
-DTSTART:20261112T043000Z
-DTEND:20261112T070000Z
-UID:pandascore-1762453@cs2
-DESCRIPTION:Tournament: BLAST Rivals\nStage: Group A\nFormat: BO3\nStream:
-  https://twitch.tv/blastpremier
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Elimination Match: FUT Esports vs MOUZ
 DTSTART:20261112T070000Z
 DTEND:20261112T093000Z
